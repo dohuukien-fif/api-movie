@@ -717,7 +717,7 @@
       "updatedAt": 1637158495793
     },
     {
-      "categoryName": "phim",
+      "categoryName": "phim bo",
       "id": "47cb5abc-9fa2-4153-ab81-e0b6c40b1d55",
       "nation": "Trung Quốc",
       "category": "Tâm Lý - Tình Cảm",
@@ -926,7 +926,7 @@
       "updatedAt": 1637158495794
     },
     {
-      "categoryName": "phim",
+      "categoryName": "phim bo",
       "id": "ceeeb492-0117-4bbc-8a96-9c6282bc55f0",
       "nation": "Trung Quốc",
       "category": "Tâm Lý - Tình Cảm",
@@ -2005,7 +2005,43 @@
       "movie": [
         {
           "pratice": 1,
-          "video": "//ok.ru/videoembed/3319447096054"
+          "video": "//ok.ru/videoembed/3191752428059"
+        },
+        {
+          "pratice": 2,
+          "video": "//ok.ru/videoembed/3193608538651"
+        },
+        {
+          "pratice": 3,
+          "video": "//ok.ru/videoembed/3220364069403"
+        },
+        {
+          "pratice": 4,
+          "video": "//ok.ru/videoembed/3227164936731"
+        },
+        {
+          "pratice": 5,
+          "video": "//ok.ru/videoembed/3720299547165"
+        },
+        {
+          "pratice": 6,
+          "video": "//ok.ru/videoembed/3720299481629"
+        },
+        {
+          "pratice": 7,
+          "video": "//ok.ru/videoembed/3720299416093"
+        },
+        {
+          "pratice": 8,
+          "video": "//ok.ru/videoembed/3724898404893"
+        },
+        {
+          "pratice": 9,
+          "video": "//ok.ru/videoembed/3296231426587"
+        },
+        {
+          "pratice": 10,
+          "video": "//ok.ru/videoembed/3300390799899"
         }
       ],
       "desName": "Incredible Granite Ball",
@@ -2039,43 +2075,23 @@
       "movie": [
         {
           "pratice": 1,
-          "video": "//ok.ru/videoembed/3293564635675"
+          "video": "https://bitvtom100.xyz/public/dongphymtv/video?vid=478d6b3fdf765c4938451a38c23d5ba5"
         },
         {
           "pratice": 2,
-          "video": "//ok.ru/videoembed/3293564701211"
+          "video": "https://bitvtom100.xyz/public/dongphymtv/video?vid=478d6b3fdf765c4938451a38c23d5ba5"
         },
         {
           "pratice": 3,
-          "video": "//ok.ru/videoembed/3293564570139"
+          "video": "https://bitvtom100.xyz/public/dongphymtv/video?vid=06af3018a6b10fef3dc85d53996195b8"
         },
         {
           "pratice": 4,
-          "video": "//ok.ru/videoembed/3293564439067"
+          "video": "https://bitvtom100.xyz/public/dongphymtv/video?vid=54a8c7152d9b90f2a4b97d90e2e9794a"
         },
         {
           "pratice": 5,
-          "video": "//ok.ru/videoembed/3293564766747"
-        },
-        {
-          "pratice": 6,
-          "video": "//ok.ru/videoembed/3293564504603"
-        },
-        {
-          "pratice": 7,
-          "video": "//ok.ru/videoembed/3295910496795"
-        },
-        {
-          "pratice": 8,
-          "video": "//ok.ru/videoembed/3295910562331"
-        },
-        {
-          "pratice": 9,
-          "video": "//ok.ru/videoembed/2847077894875"
-        },
-        {
-          "pratice": 10,
-          "video": "//ok.ru/videoembed/2847078681307"
+          "video": "https://bitvtom100.xyz/public/dongphymtv/video?vid=6dbaa50c4d93b1c4b77095e28113c5f8"
         }
       ],
       "desName": "Handcrafted Plastic Sausages",
@@ -2107,43 +2123,15 @@
       "movie": [
         {
           "pratice": 1,
-          "video": "//ok.ru/videoembed/3303788251675"
+          "video": "https://bitvtom100.xyz/public/dongphymtv/video?vid=ac6ebac5739363e8903a997f4706e080"
         },
         {
           "pratice": 2,
-          "video": "//ok.ru/videoembed/3182829242891"
+          "video": "https://bitvtom100.xyz/public/dongphymtv/video?vid=9b5d475b523d74f2619745426804432f"
         },
         {
           "pratice": 3,
-          "video": "//ok.ru/videoembed/3011888417397"
-        },
-        {
-          "pratice": 4,
-          "video": "//ok.ru/videoembed/3306190539291"
-        },
-        {
-          "pratice": 5,
-          "video": "//ok.ru/videoembed/3311181040155"
-        },
-        {
-          "pratice": 6,
-          "video": "//ok.ru/videoembed/2811569768972"
-        },
-        {
-          "pratice": 7,
-          "video": "//ok.ru/videoembed/3311181040155"
-        },
-        {
-          "pratice": 8,
-          "video": "//ok.ru/videoembed/3311181040155"
-        },
-        {
-          "pratice": 9,
-          "video": "//ok.ru/videoembed/3311194409499"
-        },
-        {
-          "pratice": 10,
-          "video": "//ok.ru/videoembed/2818257914380"
+          "video": "https://bitvtom100.xyz/public/dongphymtv/video?vid=1fde7eddf854733d6e575f1b769ed395"
         }
       ],
       "desName": "Rustic Cotton Ball",
@@ -2175,43 +2163,43 @@
       "movie": [
         {
           "pratice": 1,
-          "video": "//ok.ru/videoembed/3295911610907"
+          "video": "//ok.ru/videoembed/3191752428059"
         },
         {
           "pratice": 2,
-          "video": "//ok.ru/videoembed/3295932910107"
+          "video": "//ok.ru/videoembed/3193608538651"
         },
         {
           "pratice": 3,
-          "video": "//ok.ru/videoembed/2836269697733"
+          "video": "//ok.ru/videoembed/3220364069403"
         },
         {
           "pratice": 4,
-          "video": "//ok.ru/videoembed/3295911807515"
+          "video": "//ok.ru/videoembed/3227164936731"
         },
         {
           "pratice": 5,
-          "video": "//ok.ru/videoembed/3295911873051"
+          "video": "//ok.ru/videoembed/3720299547165"
         },
         {
           "pratice": 6,
-          "video": "//ok.ru/videoembed/3295911938587"
+          "video": "//ok.ru/videoembed/3720299481629"
         },
         {
           "pratice": 7,
-          "video": "//ok.ru/videoembed/3299155642907"
+          "video": "//ok.ru/videoembed/3720299416093"
         },
         {
           "pratice": 8,
-          "video": "//ok.ru/videoembed/3299155577371"
+          "video": "//ok.ru/videoembed/3724898404893"
         },
         {
           "pratice": 9,
-          "video": "//ok.ru/videoembed/3301513497115"
+          "video": "//ok.ru/videoembed/3296231426587"
         },
         {
           "pratice": 10,
-          "video": "//ok.ru/videoembed/3301513497115"
+          "video": "//ok.ru/videoembed/3300390799899"
         }
       ],
       "desName": "Intelligent Concrete Soap",
@@ -2243,43 +2231,43 @@
       "movie": [
         {
           "pratice": 1,
-          "video": "//ok.ru/videoembed/3257460132379"
+          "video": "//ok.ru/videoembed/3191752428059"
         },
         {
           "pratice": 2,
-          "video": "//ok.ru/videoembed/3276707990043"
+          "video": "//ok.ru/videoembed/3193608538651"
         },
         {
           "pratice": 3,
-          "video": "//ok.ru/videoembed/3279459322395"
+          "video": "//ok.ru/videoembed/3220364069403"
         },
         {
           "pratice": 4,
-          "video": "//ok.ru/videoembed/3297080314395"
+          "video": "//ok.ru/videoembed/3227164936731"
         },
         {
           "pratice": 5,
-          "video": "//ok.ru/videoembed/3321002592795"
+          "video": "//ok.ru/videoembed/3720299547165"
         },
         {
           "pratice": 6,
-          "video": "//ok.ru/videoembed/3321002592795"
+          "video": "//ok.ru/videoembed/3720299481629"
         },
         {
           "pratice": 7,
-          "video": "//ok.ru/videoembed/3324342700571"
+          "video": "//ok.ru/videoembed/3720299416093"
         },
         {
           "pratice": 8,
-          "video": "//ok.ru/videoembed/2803438062277"
+          "video": "//ok.ru/videoembed/3724898404893"
         },
         {
           "pratice": 9,
-          "video": "//ok.ru/videoembed/2810085116613"
+          "video": "//ok.ru/videoembed/3296231426587"
         },
         {
           "pratice": 10,
-          "video": "//ok.ru/videoembed/3394231274011"
+          "video": "//ok.ru/videoembed/3300390799899"
         }
       ],
       "desName": "Practical Frozen Car",
@@ -2311,35 +2299,43 @@
       "movie": [
         {
           "pratice": 1,
-          "video": "//ok.ru/videoembed/2742400584389"
+          "video": "//ok.ru/videoembed/3191752428059"
         },
         {
           "pratice": 2,
-          "video": "//ok.ru/videoembed/3300390734363"
+          "video": "//ok.ru/videoembed/3193608538651"
         },
         {
           "pratice": 3,
-          "video": "//ok.ru/videoembed/3318505409051"
+          "video": "//ok.ru/videoembed/3220364069403"
         },
         {
           "pratice": 4,
-          "video": "//ok.ru/videoembed/3324300102171"
+          "video": "//ok.ru/videoembed/3227164936731"
         },
         {
           "pratice": 5,
-          "video": "//ok.ru/videoembed/3357110569499"
+          "video": "//ok.ru/videoembed/3720299547165"
         },
         {
           "pratice": 6,
-          "video": "//ok.ru/videoembed/3363415329307"
+          "video": "//ok.ru/videoembed/3720299481629"
         },
         {
           "pratice": 7,
-          "video": "//ok.ru/videoembed/3396733307419"
+          "video": "//ok.ru/videoembed/3720299416093"
         },
         {
           "pratice": 8,
-          "video": "//ok.ru/videoembed/3396733307419"
+          "video": "//ok.ru/videoembed/3724898404893"
+        },
+        {
+          "pratice": 9,
+          "video": "//ok.ru/videoembed/3296231426587"
+        },
+        {
+          "pratice": 10,
+          "video": "//ok.ru/videoembed/3300390799899"
         }
       ],
       "desName": "Tasty Steel Pants",
@@ -2439,43 +2435,43 @@
       "movie": [
         {
           "pratice": 1,
-          "video": "//ok.ru/videoembed/3739995146781"
+          "video": "//ok.ru/videoembed/3191752428059"
         },
         {
           "pratice": 2,
-          "video": "//ok.ru/videoembed/3739995212317"
+          "video": "//ok.ru/videoembed/3193608538651"
         },
         {
           "pratice": 3,
-          "video": "//ok.ru/videoembed/3740000913949"
+          "video": "//ok.ru/videoembed/3220364069403"
         },
         {
           "pratice": 4,
-          "video": "//ok.ru/videoembed/3739995081245"
+          "video": "//ok.ru/videoembed/3227164936731"
         },
         {
           "pratice": 5,
-          "video": "//ok.ru/videoembed/3384627170002"
+          "video": "//ok.ru/videoembed/3720299547165"
         },
         {
           "pratice": 6,
-          "video": "//ok.ru/videoembed/3384627366610"
+          "video": "//ok.ru/videoembed/3720299481629"
         },
         {
           "pratice": 7,
-          "video": "//ok.ru/videoembed/2824753187547"
+          "video": "//ok.ru/videoembed/3720299416093"
         },
         {
           "pratice": 8,
-          "video": "//ok.ru/videoembed/2824754039515"
+          "video": "//ok.ru/videoembed/3724898404893"
         },
         {
           "pratice": 9,
-          "video": "//ok.ru/videoembed/2824753515227"
+          "video": "//ok.ru/videoembed/3296231426587"
         },
         {
           "pratice": 10,
-          "video": "//ok.ru/videoembed/3007174019701"
+          "video": "//ok.ru/videoembed/3300390799899"
         }
       ],
       "desName": "Fantastic Rubber Chair",
@@ -2576,19 +2572,43 @@
       "movie": [
         {
           "pratice": 1,
-          "video": "//ok.ru/videoembed/3387949124306"
+          "video": "//ok.ru/videoembed/3191752428059"
         },
         {
           "pratice": 2,
-          "video": "//ok.ru/videoembed/3309894502939"
+          "video": "//ok.ru/videoembed/3193608538651"
         },
         {
           "pratice": 3,
-          "video": "//ok.ru/videoembed/3309894502939"
+          "video": "//ok.ru/videoembed/3220364069403"
         },
         {
           "pratice": 4,
-          "video": "//ok.ru/videoembed/3399281019602"
+          "video": "//ok.ru/videoembed/3227164936731"
+        },
+        {
+          "pratice": 5,
+          "video": "//ok.ru/videoembed/3720299547165"
+        },
+        {
+          "pratice": 6,
+          "video": "//ok.ru/videoembed/3720299481629"
+        },
+        {
+          "pratice": 7,
+          "video": "//ok.ru/videoembed/3720299416093"
+        },
+        {
+          "pratice": 8,
+          "video": "//ok.ru/videoembed/3724898404893"
+        },
+        {
+          "pratice": 9,
+          "video": "//ok.ru/videoembed/3296231426587"
+        },
+        {
+          "pratice": 10,
+          "video": "//ok.ru/videoembed/3300390799899"
         }
       ],
       "desName": "Handcrafted Soft Mouse",
@@ -2620,15 +2640,15 @@
       "movie": [
         {
           "pratice": 1,
-          "video": "//ok.ru/videoembed/3631589165597"
+          "video": "//ok.ru/videoembed/3191752428059"
         },
         {
           "pratice": 2,
-          "video": "//ok.ru/videoembed/3187512052251"
+          "video": "//ok.ru/videoembed/3193608538651"
         },
         {
           "pratice": 3,
-          "video": "//ok.ru/videoembed/3411443452626"
+          "video": "//ok.ru/videoembed/3220364069403"
         },
         {
           "pratice": 4,
@@ -2636,27 +2656,27 @@
         },
         {
           "pratice": 5,
-          "video": "//ok.ru/videoembed/3411443780306"
+          "video": "//ok.ru/videoembed/3720299547165"
         },
         {
           "pratice": 6,
-          "video": "//ok.ru/videoembed/3411443387090"
+          "video": "//ok.ru/videoembed/3720299481629"
         },
         {
           "pratice": 7,
-          "video": "//ok.ru/videoembed/3271440468507"
+          "video": "//ok.ru/videoembed/3720299416093"
         },
         {
           "pratice": 8,
-          "video": "//ok.ru/videoembed/3273013398043"
+          "video": "//ok.ru/videoembed/3724898404893"
         },
         {
           "pratice": 9,
-          "video": "//ok.ru/videoembed/3291564804635"
+          "video": "//ok.ru/videoembed/3296231426587"
         },
         {
           "pratice": 10,
-          "video": "//ok.ru/videoembed/3293851290139"
+          "video": "//ok.ru/videoembed/3300390799899"
         }
       ],
       "desName": "Handmade Rubber Soap",
@@ -2688,43 +2708,43 @@
       "movie": [
         {
           "pratice": 1,
-          "video": "//ok.ru/videoembed/3291510671899"
+          "video": "//ok.ru/videoembed/3191752428059"
         },
         {
           "pratice": 2,
-          "video": "//ok.ru/videoembed/3293867543067"
+          "video": "//ok.ru/videoembed/3193608538651"
         },
         {
           "pratice": 3,
-          "video": "//ok.ru/videoembed/3011888417397"
+          "video": "//ok.ru/videoembed/3220364069403"
         },
         {
           "pratice": 4,
-          "video": "//ok.ru/videoembed/3095723248247"
+          "video": "//ok.ru/videoembed/3227164936731"
         },
         {
           "pratice": 5,
-          "video": "//ok.ru/videoembed/3348833307163"
+          "video": "//ok.ru/videoembed/3720299547165"
         },
         {
           "pratice": 6,
-          "video": "//ok.ru/videoembed/3136865700471"
+          "video": "//ok.ru/videoembed/3720299481629"
         },
         {
           "pratice": 7,
-          "video": "//ok.ru/videoembed/3375952300571"
+          "video": "//ok.ru/videoembed/3720299416093"
         },
         {
           "pratice": 8,
-          "video": "//ok.ru/videoembed/3170358528631"
+          "video": "//ok.ru/videoembed/3724898404893"
         },
         {
           "pratice": 9,
-          "video": "//ok.ru/videoembed/2898062936773"
+          "video": "//ok.ru/videoembed/3296231426587"
         },
         {
           "pratice": 10,
-          "video": "//ok.ru/videoembed/2907469712069"
+          "video": "//ok.ru/videoembed/3300390799899"
         }
       ],
       "desName": "Incredible Steel Gloves",
@@ -2757,15 +2777,43 @@
       "movie": [
         {
           "pratice": 1,
-          "video": "//ok.ru/videoembed/2955172448987"
+          "video": "//ok.ru/videoembed/3191752428059"
         },
         {
           "pratice": 2,
-          "video": "//ok.ru/videoembed/2955172448987"
+          "video": "//ok.ru/videoembed/3193608538651"
         },
         {
           "pratice": 3,
-          "video": "//ok.ru/videoembed/2955172448987"
+          "video": "//ok.ru/videoembed/3220364069403"
+        },
+        {
+          "pratice": 4,
+          "video": "//ok.ru/videoembed/3227164936731"
+        },
+        {
+          "pratice": 5,
+          "video": "//ok.ru/videoembed/3720299547165"
+        },
+        {
+          "pratice": 6,
+          "video": "//ok.ru/videoembed/3720299481629"
+        },
+        {
+          "pratice": 7,
+          "video": "//ok.ru/videoembed/3720299416093"
+        },
+        {
+          "pratice": 8,
+          "video": "//ok.ru/videoembed/3724898404893"
+        },
+        {
+          "pratice": 9,
+          "video": "//ok.ru/videoembed/3296231426587"
+        },
+        {
+          "pratice": 10,
+          "video": "//ok.ru/videoembed/3300390799899"
         }
       ],
       "desName": "Intelligent Cotton Towels",
@@ -2777,7 +2825,7 @@
       "updatedAt": 1637158495794
     },
     {
-      "categoryName": "phim bo",
+      "categoryName": "Computers",
       "id": "b885ecd4-7dfd-4b29-aba0-d0a6c4235ea8",
       "nation": "Trung Quốc",
       "category": "Cổ Trang - Thần Thoại",
@@ -2797,43 +2845,43 @@
       "movie": [
         {
           "pratice": 1,
-          "video": "//ok.ru/videoembed/3205494671899"
+          "video": "//ok.ru/videoembed/3191752428059"
         },
         {
           "pratice": 2,
-          "video": "//ok.ru/videoembed/3205518264859"
+          "video": "//ok.ru/videoembed/3193608538651"
         },
         {
           "pratice": 3,
-          "video": "//ok.ru/videoembed/3205518330395"
+          "video": "//ok.ru/videoembed/3220364069403"
         },
         {
           "pratice": 4,
-          "video": "//ok.ru/videoembed/3205518199323"
+          "video": "//ok.ru/videoembed/3227164936731"
         },
         {
           "pratice": 5,
-          "video": "//ok.ru/videoembed/3205532682779"
+          "video": "//ok.ru/videoembed/3720299547165"
         },
         {
           "pratice": 6,
-          "video": "//ok.ru/videoembed/3205532813851"
+          "video": "//ok.ru/videoembed/3720299481629"
         },
         {
           "pratice": 7,
-          "video": "//ok.ru/videoembed/3205532617243"
+          "video": "//ok.ru/videoembed/3720299416093"
         },
         {
           "pratice": 8,
-          "video": "//ok.ru/videoembed/3205532748315"
+          "video": "//ok.ru/videoembed/3724898404893"
         },
         {
           "pratice": 9,
-          "video": "//ok.ru/videoembed/3210195241499"
+          "video": "//ok.ru/videoembed/3296231426587"
         },
         {
           "pratice": 10,
-          "video": "//ok.ru/videoembed/3210195307035"
+          "video": "//ok.ru/videoembed/3300390799899"
         }
       ],
       "desName": "Licensed Wooden Chicken",
@@ -2865,35 +2913,43 @@
       "movie": [
         {
           "pratice": 1,
-          "video": "//ok.ru/videoembed/3348833503771"
+          "video": "//ok.ru/videoembed/3191752428059"
         },
         {
           "pratice": 2,
-          "video": "//ok.ru/videoembed/3348833438235"
+          "video": "//ok.ru/videoembed/3193608538651"
         },
         {
           "pratice": 3,
-          "video": "//ok.ru/videoembed/2796229102277"
+          "video": "//ok.ru/videoembed/3220364069403"
         },
         {
           "pratice": 4,
-          "video": "//ok.ru/videoembed/2796182440645"
+          "video": "//ok.ru/videoembed/3227164936731"
         },
         {
           "pratice": 5,
-          "video": "//ok.ru/videoembed/3354149849627"
+          "video": "//ok.ru/videoembed/3720299547165"
         },
         {
           "pratice": 6,
-          "video": "//ok.ru/videoembed/3360662424091"
+          "video": "//ok.ru/videoembed/3720299481629"
         },
         {
           "pratice": 7,
-          "video": "//ok.ru/videoembed/3360662358555"
+          "video": "//ok.ru/videoembed/3720299416093"
         },
         {
           "pratice": 8,
-          "video": "//ok.ru/videoembed/33700813890833"
+          "video": "//ok.ru/videoembed/3724898404893"
+        },
+        {
+          "pratice": 9,
+          "video": "//ok.ru/videoembed/3296231426587"
+        },
+        {
+          "pratice": 10,
+          "video": "//ok.ru/videoembed/3300390799899"
         }
       ],
       "desName": "Practical Frozen Cheese",
@@ -2925,15 +2981,43 @@
       "movie": [
         {
           "pratice": 1,
-          "video": "//ok.ru/videoembed/3144410794615"
+          "video": "//ok.ru/videoembed/3191752428059"
         },
         {
           "pratice": 2,
-          "video": "//ok.ru/videoembed/3364419340827"
+          "video": "//ok.ru/videoembed/3193608538651"
         },
         {
           "pratice": 3,
-          "video": "//ok.ru/videoembed/2842950830789"
+          "video": "//ok.ru/videoembed/3220364069403"
+        },
+        {
+          "pratice": 4,
+          "video": "//ok.ru/videoembed/3227164936731"
+        },
+        {
+          "pratice": 5,
+          "video": "//ok.ru/videoembed/3720299547165"
+        },
+        {
+          "pratice": 6,
+          "video": "//ok.ru/videoembed/3720299481629"
+        },
+        {
+          "pratice": 7,
+          "video": "//ok.ru/videoembed/3720299416093"
+        },
+        {
+          "pratice": 8,
+          "video": "//ok.ru/videoembed/3724898404893"
+        },
+        {
+          "pratice": 9,
+          "video": "//ok.ru/videoembed/3296231426587"
+        },
+        {
+          "pratice": 10,
+          "video": "//ok.ru/videoembed/3300390799899"
         }
       ],
       "desName": "Handmade Plastic Shirt",
@@ -3510,6 +3594,42 @@
         {
           "pratice": 1,
           "video": "//ok.ru/videoembed/3191752428059"
+        },
+        {
+          "pratice": 2,
+          "video": "//ok.ru/videoembed/3193608538651"
+        },
+        {
+          "pratice": 3,
+          "video": "//ok.ru/videoembed/3220364069403"
+        },
+        {
+          "pratice": 4,
+          "video": "//ok.ru/videoembed/3227164936731"
+        },
+        {
+          "pratice": 5,
+          "video": "//ok.ru/videoembed/3720299547165"
+        },
+        {
+          "pratice": 6,
+          "video": "//ok.ru/videoembed/3720299481629"
+        },
+        {
+          "pratice": 7,
+          "video": "//ok.ru/videoembed/3720299416093"
+        },
+        {
+          "pratice": 8,
+          "video": "//ok.ru/videoembed/3724898404893"
+        },
+        {
+          "pratice": 9,
+          "video": "//ok.ru/videoembed/3296231426587"
+        },
+        {
+          "pratice": 10,
+          "video": "//ok.ru/videoembed/3300390799899"
         }
       ],
       "desName": "Refined Concrete Chips",
@@ -3542,6 +3662,42 @@
         {
           "pratice": 1,
           "video": "//ok.ru/videoembed/3191752428059"
+        },
+        {
+          "pratice": 2,
+          "video": "//ok.ru/videoembed/3193608538651"
+        },
+        {
+          "pratice": 3,
+          "video": "//ok.ru/videoembed/3220364069403"
+        },
+        {
+          "pratice": 4,
+          "video": "//ok.ru/videoembed/3227164936731"
+        },
+        {
+          "pratice": 5,
+          "video": "//ok.ru/videoembed/3720299547165"
+        },
+        {
+          "pratice": 6,
+          "video": "//ok.ru/videoembed/3720299481629"
+        },
+        {
+          "pratice": 7,
+          "video": "//ok.ru/videoembed/3720299416093"
+        },
+        {
+          "pratice": 8,
+          "video": "//ok.ru/videoembed/3724898404893"
+        },
+        {
+          "pratice": 9,
+          "video": "//ok.ru/videoembed/3296231426587"
+        },
+        {
+          "pratice": 10,
+          "video": "//ok.ru/videoembed/3300390799899"
         }
       ],
       "desName": "Incredible Concrete Mouse",
@@ -3573,7 +3729,43 @@
       "movie": [
         {
           "pratice": 1,
-          "video": "//ok.ru/videoembed/3136019106542"
+          "video": "//ok.ru/videoembed/3191752428059"
+        },
+        {
+          "pratice": 2,
+          "video": "//ok.ru/videoembed/3193608538651"
+        },
+        {
+          "pratice": 3,
+          "video": "//ok.ru/videoembed/3220364069403"
+        },
+        {
+          "pratice": 4,
+          "video": "//ok.ru/videoembed/3227164936731"
+        },
+        {
+          "pratice": 5,
+          "video": "//ok.ru/videoembed/3720299547165"
+        },
+        {
+          "pratice": 6,
+          "video": "//ok.ru/videoembed/3720299481629"
+        },
+        {
+          "pratice": 7,
+          "video": "//ok.ru/videoembed/3720299416093"
+        },
+        {
+          "pratice": 8,
+          "video": "//ok.ru/videoembed/3724898404893"
+        },
+        {
+          "pratice": 9,
+          "video": "//ok.ru/videoembed/3296231426587"
+        },
+        {
+          "pratice": 10,
+          "video": "//ok.ru/videoembed/3300390799899"
         }
       ],
       "desName": "Rustic Wooden Shirt",
@@ -3605,7 +3797,43 @@
       "movie": [
         {
           "pratice": 1,
-          "video": "//ok.ru/videoembed/3059857885934"
+          "video": "//ok.ru/videoembed/3191752428059"
+        },
+        {
+          "pratice": 2,
+          "video": "//ok.ru/videoembed/3193608538651"
+        },
+        {
+          "pratice": 3,
+          "video": "//ok.ru/videoembed/3220364069403"
+        },
+        {
+          "pratice": 4,
+          "video": "//ok.ru/videoembed/3227164936731"
+        },
+        {
+          "pratice": 5,
+          "video": "//ok.ru/videoembed/3720299547165"
+        },
+        {
+          "pratice": 6,
+          "video": "//ok.ru/videoembed/3720299481629"
+        },
+        {
+          "pratice": 7,
+          "video": "//ok.ru/videoembed/3720299416093"
+        },
+        {
+          "pratice": 8,
+          "video": "//ok.ru/videoembed/3724898404893"
+        },
+        {
+          "pratice": 9,
+          "video": "//ok.ru/videoembed/3296231426587"
+        },
+        {
+          "pratice": 10,
+          "video": "//ok.ru/videoembed/3300390799899"
         }
       ],
       "desName": "Refined Concrete Chips",
@@ -3636,8 +3864,44 @@
       "cast": "",
       "movie": [
         {
-          "pratice": "full",
-          "video": "//ok.ru/videoembed/3059857885934"
+          "pratice": 1,
+          "video": "//ok.ru/videoembed/3191752428059"
+        },
+        {
+          "pratice": 2,
+          "video": "//ok.ru/videoembed/3193608538651"
+        },
+        {
+          "pratice": 3,
+          "video": "//ok.ru/videoembed/3220364069403"
+        },
+        {
+          "pratice": 4,
+          "video": "//ok.ru/videoembed/3227164936731"
+        },
+        {
+          "pratice": 5,
+          "video": "//ok.ru/videoembed/3720299547165"
+        },
+        {
+          "pratice": 6,
+          "video": "//ok.ru/videoembed/3720299481629"
+        },
+        {
+          "pratice": 7,
+          "video": "//ok.ru/videoembed/3720299416093"
+        },
+        {
+          "pratice": 8,
+          "video": "//ok.ru/videoembed/3724898404893"
+        },
+        {
+          "pratice": 9,
+          "video": "//ok.ru/videoembed/3296231426587"
+        },
+        {
+          "pratice": 10,
+          "video": "//ok.ru/videoembed/3300390799899"
         }
       ],
       "desName": "Small Frozen Bike",
@@ -3668,8 +3932,44 @@
       "cast": "",
       "movie": [
         {
-          "pratice": "full",
-          "video": "//ok.ru/videoembed/3059857885934"
+          "pratice": 1,
+          "video": "//ok.ru/videoembed/3191752428059"
+        },
+        {
+          "pratice": 2,
+          "video": "//ok.ru/videoembed/3193608538651"
+        },
+        {
+          "pratice": 3,
+          "video": "//ok.ru/videoembed/3220364069403"
+        },
+        {
+          "pratice": 4,
+          "video": "//ok.ru/videoembed/3227164936731"
+        },
+        {
+          "pratice": 5,
+          "video": "//ok.ru/videoembed/3720299547165"
+        },
+        {
+          "pratice": 6,
+          "video": "//ok.ru/videoembed/3720299481629"
+        },
+        {
+          "pratice": 7,
+          "video": "//ok.ru/videoembed/3720299416093"
+        },
+        {
+          "pratice": 8,
+          "video": "//ok.ru/videoembed/3724898404893"
+        },
+        {
+          "pratice": 9,
+          "video": "//ok.ru/videoembed/3296231426587"
+        },
+        {
+          "pratice": 10,
+          "video": "//ok.ru/videoembed/3300390799899"
         }
       ],
       "desName": "Unbranded Frozen Chair",
@@ -3701,7 +4001,43 @@
       "movie": [
         {
           "pratice": 1,
-          "video": "//ok.ru/videoembed/3129107483374"
+          "video": "//ok.ru/videoembed/3191752428059"
+        },
+        {
+          "pratice": 2,
+          "video": "//ok.ru/videoembed/3193608538651"
+        },
+        {
+          "pratice": 3,
+          "video": "//ok.ru/videoembed/3220364069403"
+        },
+        {
+          "pratice": 4,
+          "video": "//ok.ru/videoembed/3227164936731"
+        },
+        {
+          "pratice": 5,
+          "video": "//ok.ru/videoembed/3720299547165"
+        },
+        {
+          "pratice": 6,
+          "video": "//ok.ru/videoembed/3720299481629"
+        },
+        {
+          "pratice": 7,
+          "video": "//ok.ru/videoembed/3720299416093"
+        },
+        {
+          "pratice": 8,
+          "video": "//ok.ru/videoembed/3724898404893"
+        },
+        {
+          "pratice": 9,
+          "video": "//ok.ru/videoembed/3296231426587"
+        },
+        {
+          "pratice": 10,
+          "video": "//ok.ru/videoembed/3300390799899"
         }
       ],
       "desName": "Tasty Granite Tuna",
@@ -3733,7 +4069,43 @@
       "movie": [
         {
           "pratice": 1,
-          "video": "//ok.ru/videoembed/3129107483374"
+          "video": "//ok.ru/videoembed/3191752428059"
+        },
+        {
+          "pratice": 2,
+          "video": "//ok.ru/videoembed/3193608538651"
+        },
+        {
+          "pratice": 3,
+          "video": "//ok.ru/videoembed/3220364069403"
+        },
+        {
+          "pratice": 4,
+          "video": "//ok.ru/videoembed/3227164936731"
+        },
+        {
+          "pratice": 5,
+          "video": "//ok.ru/videoembed/3720299547165"
+        },
+        {
+          "pratice": 6,
+          "video": "//ok.ru/videoembed/3720299481629"
+        },
+        {
+          "pratice": 7,
+          "video": "//ok.ru/videoembed/3720299416093"
+        },
+        {
+          "pratice": 8,
+          "video": "//ok.ru/videoembed/3724898404893"
+        },
+        {
+          "pratice": 9,
+          "video": "//ok.ru/videoembed/3296231426587"
+        },
+        {
+          "pratice": 10,
+          "video": "//ok.ru/videoembed/3300390799899"
         }
       ],
       "desName": "Licensed Steel Hat",
@@ -4309,258 +4681,6 @@
       "movie": [
         {
           "pratice": 1,
-          "video": "//ok.ru/videoembed/3334916147831"
-        }
-      ],
-      "desName": "Intelligent Frozen Shoes",
-      "desContent": "Intelligent Plastic Cheese",
-      "desCast": "Intelligent Cotton Car",
-      "desTrailer": "https://youtu.be/7j4lGz_l31I",
-      "description": "<div className=\"detail\"><div className=\"detail_title\"><strong> Tà Vương Truy Thê: Nữ Thần Trở Về (Be My Wife Season 3)</strong>  là bộ phim hoạt hình Trung Quốc xoay quanh câu chuyện của Tứ tiểu thư phủ Tô tướng quân trên đại lục Bích Lạc, một cây củi mục trong ngành tu luyện, người người đều muốn hành hạ.</div><div className=\" detail_review\"><strong>Review phim Tà Vương Truy Thê: Nữ Thần Trở Về</strong></div> <div className=\"detail_body\"><p><strong>Nội dung phim</strong></p><p>Chuyện phim Tà Vương Truy Thê: Nữ Thần Trở Về bắt đầu từ Tô Lạc bị sư phụ tiên nữ Yên Hà và tình địch Lý Dao Dao bắt lấy, bị họ phế đi phép thuật dị dung mà lộ ra khuôn mặt thật. Thân thế thần bí của nàng sau đó cũng bị bại lộ. Để thoát thân Tô Lạc quyết liều mạng phá động chủ của tiên nữ Yên Hà, nhưng nàng cũng bị thương nặng mà rơi xuống biển sâu. May mắn thay nàng được Vân Khởi cứu vớt, chàng từng là người yêu giết chết nàng tại địa cầu và bây giờ Vân Khởi tỏ rõ mình biết về bí ẩn về thân thế của Tô Lạc.</p><p>Ngay sau đó, Nam Cung đang dốc sức truy tìm Tô Lạc. Liệu rằng Tô Lạc sẽ chọn trở về bên cạnh Nam Cung Lưu Vân cùng cố tìm chân tướng, hay chọn đường ngắn vì thân thế mình mà đi theo người bội bạc Vân Khởi một lần nữa. Đáp án sẽ có ngay trong bộ phim Tà Vương Truy Thê: Nữ Thần Trở Về.</p><p>Được biết, Tô Lạc vốn là một kim bài sát thủ thế kỷ 21 nhưng không may xuyên không và mang trong mình thân phận Tứ tiểu thư vô dụng nhất của Tô phủ. Kẻ năm lần bảy lượt đeo bám nàng là một Tấn vương điện hạ trời phú hơn người, tính tình lạnh lùng, ngang ngược nhưng đầy sức hút. Dù người đời ức hiếp, lăng mạ Tô Lạc như thế nào thì đối với hắn nàng luôn là bảo vật vô giá vì vậy mà hắn thề sống chết không buông với nàng, luôn dây dưa mãi như “hình với bóng”.</p><p>Mở đầu bộ phim Tà Vương Truy Thê: Nữ Thần Trở Về là cảnh Tuy Tô Lạc có được tiểu thần long, thành công khởi động không gian chế ngự kẻ truy sát, nhưng vẫn trúng kế ly gián của Lý Dao Dao, khiến Nam Cung đỡ tên trọng thương, lâm vào tuyệt cảnh linh hồn hỗn loạn...</p><div></div>",
-      "createdAt": 1637158495799,
-      "updatedAt": 1637158495799
-    },
-    {
-      "categoryName": "anime",
-      "id": "9fb6363b-cf56-44f4-af39-70b6f3c44a77",
-      "nation": " Nhật Bản",
-      "category": "Phim hoạt hình",
-      "year": 2021,
-      "sort": "mới",
-      "name": "Takt op.Destiny",
-      "isPromotion": true,
-      "isFreeship": false,
-      "evaluate": 8,
-      "thumbnailUrl": "http://cdn.animevietsub.tv/data/poster/2021/08/25/animevsub-kqFvMSxGgx.jpg",
-      "date": " 5/10/2021",
-      "director": "",
-      "time": "25 phút/ tập",
-      "practice": "N/A",
-      "premiere": "Phim hoạt hình",
-      "cast": "",
-      "movie": [
-        {
-          "pratice": 1,
-          "video": "//ok.ru/videoembed/2678391638777"
-        }
-      ],
-      "desName": "Licensed Rubber Car",
-      "desContent": "Sleek Wooden Bike",
-      "desCast": "Unbranded Plastic Ball",
-      "desTrailer": "https://youtu.be/Z77na0_sxcA",
-      "description": "<div className=\"detail\"><div className=\"detail_title\"><strong> Takt op.Destiny</strong>   bộ hoạt hình Nhật Bản, giả tưởng là dự án truyền thông hỗn hợp về âm nhạc cổ điển của DeNa và Bandai Namco Arts. Phim sẽ mở đầu với một game nhập vai trên điện thoại do Game Studio phát triển, phim xoay quanh câu chuyện ngắn ngủi, đẹp đẽ kể về vận mệnh của các cô gái vật lộn cùng sức mạnh của âm nhạc trong thế giới đang dần lãng quên đi các giai điệu. Họ nỗ lực, cố gắng theo đuổi niềm đam mê của mình vượt qua chính mình.</div><div className=\"detail_body\"><p><strong>Nội dung phim Takt op.Destiny</strong></p><p>Các nhân vật chính trong Takt op.Destiny là Takt, một nhạc trưởng đã hợp tác với một Musicarrt tên Unmei. Cậu mong muốn âm nhạc quay trở lại thế giới trong khi đó Unmei lại mong muốn phá hủy D2 vì thế cả hai đã cùng nắm tay nhau để thực hiện mục tiêu của mỗi người.</p>  </div ></div>",
-      "createdAt": 1637158495799,
-      "updatedAt": 1637158495799
-    },
-    {
-      "categoryName": "anime",
-      "id": "bcf7fa8d-607a-4103-aac5-efea6b10f0f6",
-      "nation": "Nhật Bản",
-      "category": "Phim hoạt hình",
-      "year": 2021,
-      "sort": "mới nhất",
-      "name": "Chiến Cơ Cảnh Giới - AMAIM Warrior at the borderline",
-      "isPromotion": true,
-      "isFreeship": false,
-      "evaluate": 4,
-      "thumbnailUrl": "https://i.imgur.com/qyJ73rx.jpg",
-      "date": "10/10/2021",
-      "director": "",
-      "time": " 25 phút/ tập",
-      "practice": "24 tập",
-      "premiere": "Phim hoạt hình",
-      "cast": "",
-      "movie": [
-        {
-          "pratice": 1,
-          "video": "//ok.ru/videoembed/3319446964982"
-        }
-      ],
-      "desName": "Tasty Rubber Pizza",
-      "desContent": "Fantastic Metal Fish",
-      "desCast": "Incredible Rubber Towels",
-      "desTrailer": "https://youtu.be/8AwVq90fOkc",
-      "description": "<div className=\"detail\"><div className=\"detail_title\"><strong> Chiến Cơ Cảnh Giới (AMAIM Warrior at the borderline 2021)</strong>  là một bộ phim hoạt hình anime gốc của Nhật Bản do Sunrise Beyond làm hoạt hình, được viết bởi Nobuyoshi Habara và Noboru Kimura đạo diễn và Kenichi Ohnuki là người thiết kế và cung cấp các nhân vật. Phim kể xoay quanh thời chiến Nhật Bản vào năm 2061 với hàng loạt cỗ máy khổng lồ tên AMAIM chiến đấu.</div><div className=\" detail_review\"><strong>Review phim Chiến Cơ Cảnh Giới</strong></div> <div className=\"detail_body\"><p><strong>Nội dung phim</strong></p><p>Chiến Cơ Cảnh Giới lấy bối cảnh diễn ra ở thế giới giả tưởng năm 2061 sau Công nguyên, Nhật Bản bị 4 phe thương mại chủ yếu lớn nhất phân chia và thống trị, người dân thì bị đối xử như nô lệ của quốc gia phụ thuộc. Đồng thời, đất nước cũng rơi vào cuộc chiến giữa những cỗ máy khổng lồ mang tên AMAIM, một loại vũ khí đặc biệt hình dạng giống con người.</p><p>Amo Shiba, một thiếu niên 16 tuổi đã gặp một AI tên Gai. Vốn là người đam mê về máy móc nên Amo đã thử điều khiển một cỗ máy AMAIM tên Kenbu và bắt đầu cuộc chiến giải phóng nước Nhật của mình. Đồng hành cùng nam chính trong Chiến Cơ Cảnh Giới còn có Gashin Tezuka, một thanh niên tham gia lực lượng kháng chiến cùng cỗ máy AMAIM Ghost với mục tiêu trả thù cho cái chết của cha mình.</p>  </div ><div className=\"detail_footer\"><p><strong>Nhân vật trong phim AMAIM Warrior at the borderline</strong></p><p>Shiba người vui vẻ có sở thích mặc một chiếc áo màu vàng với mái tóc nâu xù, đi cùng anh là Kei - sinh vật nhỏ đã tham gia cùng Shiba trong cuộc phiêu lưu của anh ấy. Trong khi đó Sion là nhân vật mặc chiếc áo khoác trắng và trông giống như một bác sĩ, còn người mặc áo khoác đen với mái tóc đen nhánh cùng đôi mắt nâu là Gashin. Tất cả đều sở hữu robot, android, kỹ năng máy tính tiên tiến nghĩ rằng “HAL 9000”. </p><p> Được biết trong AMAIM Warrior at the borderline AI và con người được tuyển dụng để cùng nhau thực hiện nhiệm vụ mới nhằm cứu Nhật Bản khỏi sự hủy diệt. Để mang lại hòa bình và công lý cho người dân cũng như chủng tộc AI bị đối xử bất bình đẳng nhóm thanh niên Shiba này đã tham gia nhiều trận chiến và đi khắp Nhật Bản để tiêu diệt những cỗ máy mang tên “AMAIM”. </p></div></div>",
-      "createdAt": 1637158495799,
-      "updatedAt": 1637158495799
-    },
-    {
-      "categoryName": "anime",
-      "id": "d1ca3e0f-cef2-4d5a-a8e2-3a76e7255149",
-      "nation": "Nhật Bản",
-      "category": "Phim hoạt hình",
-      "year": 2021,
-      "sort": "mới",
-      "name": "Hạt Giống Tiến Hóa: Chưa Hiểu Chuyện Gì Đời Tôi Đã Trở Nên Vô Đối - The Fruit of Evolution: Before I Knew It, My Life Had It Made",
-      "isPromotion": false,
-      "isFreeship": false,
-      "evaluate": 5.9,
-      "thumbnailUrl": "https://img.bilutv.cc/film/18663/poster.jpg",
-      "date": "9/10/2021",
-      "director": "Okumura Yoshiaki",
-      "time": "25 phút/ tập",
-      "practice": "12 tập",
-      "premiere": "Phim hoạt hình",
-      "cast": "The Fruit of Evolution, Tetsu Inada, Yūka Nishio",
-      "movie": [
-        {
-          "pratice": 1,
-          "video": "//ok.ru/videoembed/3319447030518"
-        }
-      ],
-      "desName": "Awesome Plastic Keyboard",
-      "desContent": "Ergonomic Wooden Soap",
-      "desCast": "Handcrafted Cotton Hat",
-      "desTrailer": "https://youtu.be/1LW7QNcNk0o",
-      "description": "<div className=\"detail\"><div className=\"detail_title\"><strong> Hạt Giống Tiến Hóa: Chưa Hiểu Chuyện Gì Đời Tôi Đã Trở Nên Vô Đối (The Fruit of Evolution: Before I Knew It, My Life Had It Made)</strong>là bộ phim kể về Seiichi đi từ một kẻ bị bắt nạt thậm tệ bởi bạn học, thậm chí còn không được công nhận về những thành quả đã làm nhưng cậu vẫn lạc quan bất chấp những nhiều đó để sống sót ở thế giới mới này.</div><div className=\" detail_review\"><strong>Review phim Hạt Giống Tiến Hóa: Chưa Hiểu Chuyện Gì Đời Tôi Đã Trở Nên Vô Đối</strong></div> <div className=\"detail_body\"><p><strong>Nội dung phim</strong></p><p>Hạt Giống Tiến Hóa: Chưa Hiểu Chuyện Gì Đời Tôi Đã Trở Nên Vô Đối do đạo diễn Yoshiaki Okumura (Antique Bakery, Monsuno) cầm trịch sản xuất tại studio feel và Children’s Playground Entertainment, cả hai đều có tiếng trong làng anime Nhật Bản. Ở tác phẩm mới này sẽ là câu chuyện kể về Hiiragi Seiichi, một kẻ đáng ghét bẩn thỉu và thậm chí là cực kỳ xấu xí cùng những lời châm biếm lần lượt vả vào mặt anh kể từ lúc xuất hiện trước mặt người khác.</p><p>Cuộc sống hằng ngày của một kẻ bị bắt nạt như Seiichi cứ vậy mà tiếp diễn cho đến một ngày, vì lý do nào đó khi trường học ra đời và có một giọng nói bí ẩn tự xưng là Thượng Đế đã nói qua hệ thống PA để chuẩn bị đưa người tới một thế giới hoàn toàn mới. Một thế giới nhìn không khác gì trong game có level, số liệu thống kế và kỹ năng tồn tại đã xuất hiện. Lúc này các nhân vật trong thế giới ấy không chỉ có mình Seiichi mà là cả trường.</p><p>Tựa phim Hạt Giống Tiến Hóa: Chưa Hiểu Chuyện Gì Đời Tôi Đã Trở Nên Vô Đối cũng bắt đầu từ đây, khi Đức Chúa Trời vẫn còn đang chuẩn bị để hoàn thành việc chuyển giao từ thế giới thực sang thế giới ảo và sẽ gửi chúng ngay khi lễ nghi triệu tập anh hùng đã sẵn sàng. Thay vì tuân thủ quy định là các lớp học tất cả các nhóm hình thành để chờ đợi cho việc chuyển nhượng thì Seiichi ngơ ngác tự loại bỏ chính mình trong danh sách đó và như vậy đã được triệu tập đến một khu vực khác. Chưa dừng lại ở đó, anh chàng khù khờ này còn ăn phải “Fruit of Evolution”, thứ sẽ làm thay đổi cả cuộc sống của cậu để biến một kẻ không ra gì trở thành một kẻ vô địch.</p>  </div ><div className=\"detail_footer\"><p><strong>Đội ngũ sản xuất phim The Fruit of Evolution: Before I Knew It, My Life Had It Made</strong></p><p>Dàn diễn viên mới được công bố bao gồm: </p><p> Marina Inoue vào vai Artoria Gremm </p><p>Tetsu Inada vào vai Gassle Kroot</p> <p>Yūka Nishio vào vai Eris McClain</p></div></div>",
-      "createdAt": 1637158495800,
-      "updatedAt": 1637158495800
-    },
-    {
-      "categoryName": "anime",
-      "id": "facba76f-b20e-4c8b-8d47-7bc59f32b1ad",
-      "nation": "Nhật Bản",
-      "category": "Phim hoạt hình",
-      "year": 2021,
-      "sort": "mới",
-      "name": "Ma Cà Rồng, Lập Tức Đi Chết - The Vampire Dies in No Time",
-      "isPromotion": false,
-      "isFreeship": true,
-      "evaluate": 9.4,
-      "thumbnailUrl": "https://dongphymtv.com/public/files/flim/120x160/1633364973.jpg",
-      "date": "4/10/2021",
-      "director": "",
-      "time": "25 phút/ tập",
-      "practice": "N/A",
-      "premiere": "Phim hoạt hình",
-      "cast": "Jun Fukuyama, Makoto Furukawa, Mutsumi Tamura, Natsumi Hioka, Yoshitsugu Matsuoka",
-      "movie": [
-        {
-          "pratice": 1,
-          "video": "//ok.ru/videoembed/3319447096054"
-        }
-      ],
-      "desName": "Intelligent Frozen Ball",
-      "desContent": "Generic Plastic Bike",
-      "desCast": "Intelligent Plastic Mouse",
-      "desTrailer": "https://youtu.be/o5IKb0IvU6M",
-      "description": "<div className=\"detail\"><div className=\"detail_title\"><strong> Ma Cà Rồng, Lập Tức Đi Chết - The Vampire Dies in No Time (2021) </strong> là bộ anime được chuyển thể từ truyện tranh Nhật Bản được viết và minh họa bởi Itaru Bannokia. Phim xoay quanh câu chuyện của một con quỷ hút máu bất tử và người đuổi quỷ, cả hai đấu tranh lẫn nhau để bảo vệ cho lợi ích của mình..</div><div className=\" detail_review\"><strong>Review ngắn anime Ma Cà Rồng, Lập Tức Đi Chết</strong></div> <div className=\"detail_body\"><p><strong>Nội dung phim</strong></p><p>Ma Cà Rồng Lập Tức Đi Chết xảy ra ở một ngôi làng nhỏ nằm ở vùng ngoại ô dân cư hẻo lánh, đây là địa bàn của một con quỷ hút máu không thể bị giết chết tên là Doraruku chỉ cần nhắc đến tên thôi cũng khiến người khác sợ chạy toán loạn. Đối tượng mà Doraruku xem là con mồi chính là những đứa trẻ đi lạc vào ngôi làng này, lần lượt những đứa trẻ mất tích bắt đầu xuất hiện. Duy chỉ có một người dám xông vào ngôi làng này để tìm và giết con quỷ hút máu này chính là thợ săn Ronaldo.</p><p>Đến khi Ronaldo vào tận hang ổ của hắn thì anh bất ngờ phát hiện ra một bí mật rằng Doraruku kẻ được đồn đại là mang sức mạnh bất khả chiến bại nhưng hắn sống ở đây vô cùng yếu ớt dễ dàng tan thành tro bụi chỉ với mấy thủ thuật đơn giản. Câu chuyện Ma Cà Rồng Lập Tức Chết Đi bắt đầu gây cấn từ đây và những đứa trẻ bị bắt cóc tưởng chừng bị hút máu chết thì được cho là đã bị hắn đưa vào một thế giới trò chơi.</p>  </div ><div className=\"detail_footer\"><p><strong>Đội ngũ sản xuất phim Ma Cà Rồng, Lập Tức Đi Chết</strong></p><p>Phiên bản chuyển thể anime The Vampire Dies in No Time được sản xuất bởi Madhouse và đạo diễn bởi Hiroshi Kojina, với Yukie Sugawara đảm nhiệm vai trò giám sát kịch bản của loạt phim và người chịu trách nhiệm thiết kế các nhân vật chính là Mayuko Nakano. </p><p> Dàn diễn viên lồng tiếng Ma Cà Rồng, Lập Tức Đi Chết bao gồm: </p><p>Dralc được lồng tiếng bởi: Jun Fukuyama</p> <p>Tо Handa được lồng tiếng bởi: Yoshitsugu Matsuoka</p><p>Ronaldo được lồng tiếng bởi: Makoto Furukawa</p><p>Hiniachi được lồng tiếng bởi: Natsumi Hioka</p><p>John được lồng tiếng bởi: Mutsumi Tamura</p></div></div>",
-      "createdAt": 1637158495800,
-      "updatedAt": 1637158495800
-    },
-    {
-      "categoryName": "Toys",
-      "id": "20a7a174-58d1-40bc-9813-81a5cba4b5ed",
-      "nation": "Nhật Bản",
-      "category": "Phim hoạt hình",
-      "year": 2021,
-      "sort": "mới",
-      "name": "Thất Nghiệp Chuyển Sinh (Phần 1, 2) - Mushoku Tensei: Jobless Reincarnation (Season 1, 2) ",
-      "isPromotion": true,
-      "isFreeship": true,
-      "evaluate": 5.8,
-      "thumbnailUrl": "https://dongphymtv.com/public/files/flim/120x160/1633311267.jpg",
-      "date": "15/11/2021",
-      "director": "Manabu Okamoto",
-      "time": "25 phút/ tập",
-      "practice": "24 tập",
-      "premiere": "Phim hoạt hình",
-      "cast": "Yumi Uchiyama, Ai Kakuma, Konomi Kohara, Ai Kayano",
-      "movie": [
-        {
-          "pratice": 1,
-          "video": "//ok.ru/videoembed/2852390767343"
-        },
-        {
-          "pratice": 2,
-          "video": "//ok.ru/videoembed/2852547988207"
-        },
-        {
-          "pratice": 3,
-          "video": "//ok.ru/videoembed/4175643609720"
-        },
-        {
-          "pratice": 6,
-          "video": "//ok.ru/videoembed/2910236183213"
-        }
-      ],
-      "desName": "Sleek Cotton Towels",
-      "desContent": "Tasty Concrete Computer",
-      "desCast": "Gorgeous Fresh Bike",
-      "desTrailer": "https://youtu.be/OS6KeVt1Ve0",
-      "description": "<div className=\"detail\"><div className=\"detail_title\"><strong>Thất Nghiệp Chuyển Sinh (Phần 1 và 2) - Mushoku Tensei: Jobless Reincarnation </strong>là bộ anime xoay quanh cậu bé được tái sinh vào một thế giới kỳ diệu đầy phiêu lưu, một người đàn ông thất nghiệp quyết định sống cuộc sống mới của mình một cách trọn vẹn nhất mặc dù trước đây sống không mục đích, mất phương hướng.</div><div className=\" detail_review\"><strong>Review phim Thất Nghiệp Chuyển Sinh Phần 1, 2</strong></div> <div className=\"detail_body\"><p><strong>Nội dung phim</strong></p><p>Chuyện phim Thất Nghiệp Chuyển Sinh bắt đầu từ gã trai tơ 34 tuổi thất nghiệp bị đuổi ra khỏi nhà trong tình trạng không một xu dính túi, trong lúc chán nản đi lang thang trên đường thì bất ngờ bị một xe hơi đâm trúng. Đáng ngạc nhiên sau cú va chạm tưởng chừng đã chết đi thì anh ta phát hiện mình đã đầu thai trong một hình hài đứa trẻ sơ sinh và bắt đầu một cuộc sống mới ở một thế giới kỳ lạ đầy phép thuật và kiếm pháp.</p><p>Sau khi thất nghiệp chuyển sinh nam chính có một cái tên mới Rudeus Grayrat ở thế giới bí ẩn này. Không giống như việc đầu thai của một con người bình thường, anh vẫn nhớ được cuộc sống kiếp trước của mình. Câu chuyện trong phim sẽ là hành trình từ nhỏ cho đến khi trưởng thành trong một thế giới tuy tuyệt vời nhưng cũng đầy nguy hiểm của Rudeus. Đồng hành cùng anh là một cô bé xinh đẹp mang đôi tai Elf, là tiểu thư Tsundere tuy hung dữ nhưng lại cực kỳ quan tâm đến nam chính trong Thất Nghiệp Chuyển Sinh. Cả hai bắt đầu hành trình cùng những cuộc chiến khốc liệt.</p>  </div ><div className=\"detail_footer\"><p><strong>Đội ngũ góp phần vào tác phẩm Mushoku Tensei: Jobless Reincarnation Ss 1 và Ss 2</strong></p><p>Mushoku Tensei là series tiểu thuyết mạng Nhật Bản do tác giả Rifujin na Magonote viết và được xuất bản trên trang mạng Shousetsuka ni Narou (viết ngắn là Syosetu). Nhân sự chính cho anime truyền hình này bao gồm:</p><p> Nguyên tác: Rifujin na Magonote</p><p>Sản xuất: StudioBind</p> <p>Hình minh họa gốc: Shirotaka</p><p>Nhà sản xuất: EGG FIRM</p><p>Kế hoạch ban đầu: Frontier Works</p><p>Thiết kế nhân vật: Kazutaka Sugiyama</p><p>Xuất bản: KADOKAWA (dưới nhãn MF Books của họ)</p><p>Đạo diễn: Manabu Okamoto (GAMERS!)</p><p>Ngoài ra, Mushoku Tensei: Jobless Reincarnation Season 1 và 2 được đầu tư khá kỹ lưỡng phần lồng tiếng nhân vật, trong đó Tomokazu Sugita (Gintoki trong Gintama, Kohei Nikaido trong Golden Kamuy) sẽ đảm nhận lồng tiếng cho nam chính Rudeus Grayrat. Yukio Ohara đảm nhiệm phần mở đầu và kết thúc các bài hát chủ đề, kiêm luôn cả nhiệm vụ sản xuất, sáng tác, ghi âm và thực hiện ca khúc.</p></div></div>",
-      "createdAt": 1637158495801,
-      "updatedAt": 1637158495801
-    },
-    {
-      "categoryName": "anime",
-      "id": "d511a2f3-14a3-41d0-9edc-ad40f496b450",
-      "nation": "Trung quốc",
-      "category": "Phim hoạt hình",
-      "year": 2021,
-      "sort": "mới",
-      "name": "Phàm Nhân Tu Tiên (Phần 2)",
-      "isPromotion": true,
-      "isFreeship": true,
-      "evaluate": 6.8,
-      "thumbnailUrl": "https://dongphymtv.com/public/files/flim/120x160/1636862497.jpg",
-      "date": "15/11/2021",
-      "director": "",
-      "time": "25 phút / tập",
-      "practice": "N/A",
-      "premiere": "Phim hoạt hình",
-      "cast": "",
-      "movie": [
-        {
-          "pratice": 1,
-          "video": "//ok.ru/videoembed/3295618534054"
-        },
-        {
-          "pratice": 2,
-          "video": "//ok.ru/videoembed/3295618665126"
-        },
-        {
-          "pratice": 3,
-          "video": "/ok.ru/videoembed/2754135263941"
-        },
-        {
-          "pratice": 4,
-          "video": "//ok.ru/videoembed/3295618599590"
-        },
-        {
-          "pratice": 5,
-          "video": "//ok.ru/videoembed/3295618730662"
-        }
-      ],
-      "desName": "Incredible Plastic Car",
-      "desContent": "Sleek Soft Sausages",
-      "desCast": "Licensed Plastic Soap",
-      "desTrailer": "https://youtu.be/JipVenGSZeY?t=4",
-      "description": "<div className=\"detail\"><div className=\"detail_title\"><strong>  Phàm Nhân Tu Tiên (Phần 2) - A Record of a Mortal's Journey to Immortality (2021)</strong>  xoay quanh câu chuyện của một người phàm tên Hàn Lập có mong muốn tìm hiểu thế giới rộng lớn đang sống của mình, mà vô tình gặp được vô vàn cơ duyên trên con đường tu tiên. Họ không phải tiểu nhân cũng chẳng phải anh hùng, Hàn Lập từng bước khẳng định mình trong giới đó.</div><div className=\" detail_review\"><strong>Review phim Phàm Nhân Tu Tiên phần 2</strong></div> <div className=\"detail_body\"><p><strong>Cảnh giới trong phim</strong></p><p>Có rất nhiều khán giả tò mò liệu cảnh giới trong phim hoạt hình Phàm Nhân Tu Nhiên có giống trong truyện hay không? Thì ssPhim xin giải đáp là hoàn toàn giống hết, các cảnh giới này tuy không nhiều nhưng được cái mạch lạc, rõ ràng, tạo nền móng vững chắc cho các phần sau sáng tạo thêm. Các cảnh giới của tu tiên giả phân chia thành 3 giai đoạn lớn: hạ cảnh giới, trung cảnh giới, thượng cảnh giới.</p><p>- Hạ cảnh giới bao gồm năm tầng: luyện khí, trúc cơ, kết đan, nguyên anh, hóa thần.</p><p>- Trung cảnh giới thì có ba tầng: luyện hư, hợp thể, đại thừa</p><p>- Thượng cảnh giới, kì thực ở cảnh giới này chỉ có một cửa quan là độ kiếp mà thôi, qua được tầng này thì có thể phi thăng tiên giới, thọ ngang trời đất.</p>  </div ><div className=\"detail_footer\"><p><strong>Đôi nét về nhân vật chính</strong></p><p>Trong phim Phàm Nhân Tu Tiên 2 nam chính Hàn Lập vốn là tiểu tử dân dã thuần khiết, điểm mạnh duy nhất của anh là thông minh và hiếu ký hơn người một chú mà thôi. Dẫu vậy mà Hàn Lập đã vượt qua không biết bao nhiêu là gian khổ, thử thách đánh đổi cả máu, mạng sống bước tiếp trên con đường tu tiên của mình. Sự nỗ lực ấy được đền đáp bằng một cảnh giới đỉnh cao khiến bao người bái phục.</p><p> Đến với phần 2 Phàm Nhân Tu Tiên, Hàn Lập từ thiếu niên ngây thơ trở thành một nhân vật cơ trí. Để có như ngày hôm nay anh đã phải trải qua quá trình tu tiên dài đằng đẵng từ 10 tuổi đến 8000 tuổi. Nét mặt lạnh lùng và tính khí quyết đoán và có đôi lúc thăng trầm âm u nhưng lúc nào cũng tràn đầy dũng khí của kẻ nam nhân chính là Hàn Lập trong phần tiếp theo của Phàm Nhân Tu Tiên. </p></div></div>",
-      "createdAt": 1637158495801,
-      "updatedAt": 1637158495801
-    },
-    {
-      "categoryName": "anime",
-      "id": "dc784194-b32a-481c-8b2a-802fe167fb7a",
-      "nation": "Nhật Bản",
-      "category": "Phim hoạt hình",
-      "year": 2021,
-      "sort": "mới",
-      "name": "Mặt Trăng, Raika Và Công Chúa Ma Cà Rồng",
-      "isPromotion": true,
-      "isFreeship": true,
-      "evaluate": 8.2,
-      "thumbnailUrl": "https://dongphymtv.com/public/files/flim/120x160/1633404626.png",
-      "date": " 4/10/2021",
-      "director": "",
-      "time": " 25 phút/ tập",
-      "practice": "N/A",
-      "premiere": "Phim hoạt hình",
-      "cast": "",
-      "movie": [
-        {
-          "pratice": 1,
           "video": "//ok.ru/videoembed/3191752428059"
         },
         {
@@ -4599,6 +4719,272 @@
           "pratice": 10,
           "video": "//ok.ru/videoembed/3300390799899"
         }
+      ],
+      "desName": "Intelligent Frozen Shoes",
+      "desContent": "Intelligent Plastic Cheese",
+      "desCast": "Intelligent Cotton Car",
+      "desTrailer": "https://youtu.be/7j4lGz_l31I",
+      "description": "<div className=\"detail\"><div className=\"detail_title\"><strong> Tà Vương Truy Thê: Nữ Thần Trở Về (Be My Wife Season 3)</strong>  là bộ phim hoạt hình Trung Quốc xoay quanh câu chuyện của Tứ tiểu thư phủ Tô tướng quân trên đại lục Bích Lạc, một cây củi mục trong ngành tu luyện, người người đều muốn hành hạ.</div><div className=\" detail_review\"><strong>Review phim Tà Vương Truy Thê: Nữ Thần Trở Về</strong></div> <div className=\"detail_body\"><p><strong>Nội dung phim</strong></p><p>Chuyện phim Tà Vương Truy Thê: Nữ Thần Trở Về bắt đầu từ Tô Lạc bị sư phụ tiên nữ Yên Hà và tình địch Lý Dao Dao bắt lấy, bị họ phế đi phép thuật dị dung mà lộ ra khuôn mặt thật. Thân thế thần bí của nàng sau đó cũng bị bại lộ. Để thoát thân Tô Lạc quyết liều mạng phá động chủ của tiên nữ Yên Hà, nhưng nàng cũng bị thương nặng mà rơi xuống biển sâu. May mắn thay nàng được Vân Khởi cứu vớt, chàng từng là người yêu giết chết nàng tại địa cầu và bây giờ Vân Khởi tỏ rõ mình biết về bí ẩn về thân thế của Tô Lạc.</p><p>Ngay sau đó, Nam Cung đang dốc sức truy tìm Tô Lạc. Liệu rằng Tô Lạc sẽ chọn trở về bên cạnh Nam Cung Lưu Vân cùng cố tìm chân tướng, hay chọn đường ngắn vì thân thế mình mà đi theo người bội bạc Vân Khởi một lần nữa. Đáp án sẽ có ngay trong bộ phim Tà Vương Truy Thê: Nữ Thần Trở Về.</p><p>Được biết, Tô Lạc vốn là một kim bài sát thủ thế kỷ 21 nhưng không may xuyên không và mang trong mình thân phận Tứ tiểu thư vô dụng nhất của Tô phủ. Kẻ năm lần bảy lượt đeo bám nàng là một Tấn vương điện hạ trời phú hơn người, tính tình lạnh lùng, ngang ngược nhưng đầy sức hút. Dù người đời ức hiếp, lăng mạ Tô Lạc như thế nào thì đối với hắn nàng luôn là bảo vật vô giá vì vậy mà hắn thề sống chết không buông với nàng, luôn dây dưa mãi như “hình với bóng”.</p><p>Mở đầu bộ phim Tà Vương Truy Thê: Nữ Thần Trở Về là cảnh Tuy Tô Lạc có được tiểu thần long, thành công khởi động không gian chế ngự kẻ truy sát, nhưng vẫn trúng kế ly gián của Lý Dao Dao, khiến Nam Cung đỡ tên trọng thương, lâm vào tuyệt cảnh linh hồn hỗn loạn...</p><div></div>",
+      "createdAt": 1637158495799,
+      "updatedAt": 1637158495799
+    },
+    {
+      "categoryName": "anime",
+      "id": "9fb6363b-cf56-44f4-af39-70b6f3c44a77",
+      "nation": " Nhật Bản",
+      "category": "Phim hoạt hình",
+      "year": 2021,
+      "sort": "mới",
+      "name": "Takt op.Destiny",
+      "isPromotion": true,
+      "isFreeship": false,
+      "evaluate": 8,
+      "thumbnailUrl": "http://cdn.animevietsub.tv/data/poster/2021/08/25/animevsub-kqFvMSxGgx.jpg",
+      "date": " 5/10/2021",
+      "director": "",
+      "time": "25 phút/ tập",
+      "practice": "N/A",
+      "premiere": "Phim hoạt hình",
+      "cast": "",
+      "movie": [
+        15479,
+        "ze<aVn\"wST",
+        31696,
+        "Uqn$%p'JC|",
+        "[InnYK4%B1",
+        83192,
+        21898,
+        "N3AlPf8cdE",
+        "W=Ogjz[EoG",
+        41846
+      ],
+      "desName": "Licensed Rubber Car",
+      "desContent": "Sleek Wooden Bike",
+      "desCast": "Unbranded Plastic Ball",
+      "desTrailer": "https://youtu.be/Z77na0_sxcA",
+      "description": "<div className=\"detail\"><div className=\"detail_title\"><strong> Takt op.Destiny</strong>   bộ hoạt hình Nhật Bản, giả tưởng là dự án truyền thông hỗn hợp về âm nhạc cổ điển của DeNa và Bandai Namco Arts. Phim sẽ mở đầu với một game nhập vai trên điện thoại do Game Studio phát triển, phim xoay quanh câu chuyện ngắn ngủi, đẹp đẽ kể về vận mệnh của các cô gái vật lộn cùng sức mạnh của âm nhạc trong thế giới đang dần lãng quên đi các giai điệu. Họ nỗ lực, cố gắng theo đuổi niềm đam mê của mình vượt qua chính mình.</div><div className=\"detail_body\"><p><strong>Nội dung phim Takt op.Destiny</strong></p><p>Các nhân vật chính trong Takt op.Destiny là Takt, một nhạc trưởng đã hợp tác với một Musicarrt tên Unmei. Cậu mong muốn âm nhạc quay trở lại thế giới trong khi đó Unmei lại mong muốn phá hủy D2 vì thế cả hai đã cùng nắm tay nhau để thực hiện mục tiêu của mỗi người.</p>  </div ></div>",
+      "createdAt": 1637158495799,
+      "updatedAt": 1637158495799
+    },
+    {
+      "categoryName": "anime",
+      "id": "bcf7fa8d-607a-4103-aac5-efea6b10f0f6",
+      "nation": "Nhật Bản",
+      "category": "Phim hoạt hình",
+      "year": 2021,
+      "sort": "mới nhất",
+      "name": "Chiến Cơ Cảnh Giới - AMAIM Warrior at the borderline",
+      "isPromotion": true,
+      "isFreeship": false,
+      "evaluate": 4,
+      "thumbnailUrl": "https://i.imgur.com/qyJ73rx.jpg",
+      "date": "10/10/2021",
+      "director": "",
+      "time": " 25 phút/ tập",
+      "practice": "24 tập",
+      "premiere": "Phim hoạt hình",
+      "cast": "",
+      "movie": [
+        "zGI?$p[*R^",
+        "b<vof<G%3S",
+        "0.v&D/h[L%",
+        "v)2gYML8mo",
+        8351,
+        "W*/E,'w:Ff",
+        38832,
+        16426,
+        19732,
+        8331
+      ],
+      "desName": "Tasty Rubber Pizza",
+      "desContent": "Fantastic Metal Fish",
+      "desCast": "Incredible Rubber Towels",
+      "desTrailer": "https://youtu.be/8AwVq90fOkc",
+      "description": "<div className=\"detail\"><div className=\"detail_title\"><strong> Chiến Cơ Cảnh Giới (AMAIM Warrior at the borderline 2021)</strong>  là một bộ phim hoạt hình anime gốc của Nhật Bản do Sunrise Beyond làm hoạt hình, được viết bởi Nobuyoshi Habara và Noboru Kimura đạo diễn và Kenichi Ohnuki là người thiết kế và cung cấp các nhân vật. Phim kể xoay quanh thời chiến Nhật Bản vào năm 2061 với hàng loạt cỗ máy khổng lồ tên AMAIM chiến đấu.</div><div className=\" detail_review\"><strong>Review phim Chiến Cơ Cảnh Giới</strong></div> <div className=\"detail_body\"><p><strong>Nội dung phim</strong></p><p>Chiến Cơ Cảnh Giới lấy bối cảnh diễn ra ở thế giới giả tưởng năm 2061 sau Công nguyên, Nhật Bản bị 4 phe thương mại chủ yếu lớn nhất phân chia và thống trị, người dân thì bị đối xử như nô lệ của quốc gia phụ thuộc. Đồng thời, đất nước cũng rơi vào cuộc chiến giữa những cỗ máy khổng lồ mang tên AMAIM, một loại vũ khí đặc biệt hình dạng giống con người.</p><p>Amo Shiba, một thiếu niên 16 tuổi đã gặp một AI tên Gai. Vốn là người đam mê về máy móc nên Amo đã thử điều khiển một cỗ máy AMAIM tên Kenbu và bắt đầu cuộc chiến giải phóng nước Nhật của mình. Đồng hành cùng nam chính trong Chiến Cơ Cảnh Giới còn có Gashin Tezuka, một thanh niên tham gia lực lượng kháng chiến cùng cỗ máy AMAIM Ghost với mục tiêu trả thù cho cái chết của cha mình.</p>  </div ><div className=\"detail_footer\"><p><strong>Nhân vật trong phim AMAIM Warrior at the borderline</strong></p><p>Shiba người vui vẻ có sở thích mặc một chiếc áo màu vàng với mái tóc nâu xù, đi cùng anh là Kei - sinh vật nhỏ đã tham gia cùng Shiba trong cuộc phiêu lưu của anh ấy. Trong khi đó Sion là nhân vật mặc chiếc áo khoác trắng và trông giống như một bác sĩ, còn người mặc áo khoác đen với mái tóc đen nhánh cùng đôi mắt nâu là Gashin. Tất cả đều sở hữu robot, android, kỹ năng máy tính tiên tiến nghĩ rằng “HAL 9000”. </p><p> Được biết trong AMAIM Warrior at the borderline AI và con người được tuyển dụng để cùng nhau thực hiện nhiệm vụ mới nhằm cứu Nhật Bản khỏi sự hủy diệt. Để mang lại hòa bình và công lý cho người dân cũng như chủng tộc AI bị đối xử bất bình đẳng nhóm thanh niên Shiba này đã tham gia nhiều trận chiến và đi khắp Nhật Bản để tiêu diệt những cỗ máy mang tên “AMAIM”. </p></div></div>",
+      "createdAt": 1637158495799,
+      "updatedAt": 1637158495799
+    },
+    {
+      "categoryName": "anime",
+      "id": "d1ca3e0f-cef2-4d5a-a8e2-3a76e7255149",
+      "nation": "Nhật Bản",
+      "category": "Phim hoạt hình",
+      "year": 2021,
+      "sort": "mới",
+      "name": "Hạt Giống Tiến Hóa: Chưa Hiểu Chuyện Gì Đời Tôi Đã Trở Nên Vô Đối - The Fruit of Evolution: Before I Knew It, My Life Had It Made",
+      "isPromotion": false,
+      "isFreeship": false,
+      "evaluate": 5.9,
+      "thumbnailUrl": "https://img.bilutv.cc/film/18663/poster.jpg",
+      "date": "9/10/2021",
+      "director": "Okumura Yoshiaki",
+      "time": "25 phút/ tập",
+      "practice": "12 tập",
+      "premiere": "Phim hoạt hình",
+      "cast": "The Fruit of Evolution, Tetsu Inada, Yūka Nishio",
+      "movie": [
+        68477,
+        29021,
+        "[U4P@k7q;X",
+        "S[PClV[seg",
+        "5=OtS=s?+B",
+        "S1k{X(''5?",
+        86637,
+        33589,
+        27299,
+        "3JU!F6_5_J"
+      ],
+      "desName": "Awesome Plastic Keyboard",
+      "desContent": "Ergonomic Wooden Soap",
+      "desCast": "Handcrafted Cotton Hat",
+      "desTrailer": "https://youtu.be/1LW7QNcNk0o",
+      "description": "<div className=\"detail\"><div className=\"detail_title\"><strong> Hạt Giống Tiến Hóa: Chưa Hiểu Chuyện Gì Đời Tôi Đã Trở Nên Vô Đối (The Fruit of Evolution: Before I Knew It, My Life Had It Made)</strong>là bộ phim kể về Seiichi đi từ một kẻ bị bắt nạt thậm tệ bởi bạn học, thậm chí còn không được công nhận về những thành quả đã làm nhưng cậu vẫn lạc quan bất chấp những nhiều đó để sống sót ở thế giới mới này.</div><div className=\" detail_review\"><strong>Review phim Hạt Giống Tiến Hóa: Chưa Hiểu Chuyện Gì Đời Tôi Đã Trở Nên Vô Đối</strong></div> <div className=\"detail_body\"><p><strong>Nội dung phim</strong></p><p>Hạt Giống Tiến Hóa: Chưa Hiểu Chuyện Gì Đời Tôi Đã Trở Nên Vô Đối do đạo diễn Yoshiaki Okumura (Antique Bakery, Monsuno) cầm trịch sản xuất tại studio feel và Children’s Playground Entertainment, cả hai đều có tiếng trong làng anime Nhật Bản. Ở tác phẩm mới này sẽ là câu chuyện kể về Hiiragi Seiichi, một kẻ đáng ghét bẩn thỉu và thậm chí là cực kỳ xấu xí cùng những lời châm biếm lần lượt vả vào mặt anh kể từ lúc xuất hiện trước mặt người khác.</p><p>Cuộc sống hằng ngày của một kẻ bị bắt nạt như Seiichi cứ vậy mà tiếp diễn cho đến một ngày, vì lý do nào đó khi trường học ra đời và có một giọng nói bí ẩn tự xưng là Thượng Đế đã nói qua hệ thống PA để chuẩn bị đưa người tới một thế giới hoàn toàn mới. Một thế giới nhìn không khác gì trong game có level, số liệu thống kế và kỹ năng tồn tại đã xuất hiện. Lúc này các nhân vật trong thế giới ấy không chỉ có mình Seiichi mà là cả trường.</p><p>Tựa phim Hạt Giống Tiến Hóa: Chưa Hiểu Chuyện Gì Đời Tôi Đã Trở Nên Vô Đối cũng bắt đầu từ đây, khi Đức Chúa Trời vẫn còn đang chuẩn bị để hoàn thành việc chuyển giao từ thế giới thực sang thế giới ảo và sẽ gửi chúng ngay khi lễ nghi triệu tập anh hùng đã sẵn sàng. Thay vì tuân thủ quy định là các lớp học tất cả các nhóm hình thành để chờ đợi cho việc chuyển nhượng thì Seiichi ngơ ngác tự loại bỏ chính mình trong danh sách đó và như vậy đã được triệu tập đến một khu vực khác. Chưa dừng lại ở đó, anh chàng khù khờ này còn ăn phải “Fruit of Evolution”, thứ sẽ làm thay đổi cả cuộc sống của cậu để biến một kẻ không ra gì trở thành một kẻ vô địch.</p>  </div ><div className=\"detail_footer\"><p><strong>Đội ngũ sản xuất phim The Fruit of Evolution: Before I Knew It, My Life Had It Made</strong></p><p>Dàn diễn viên mới được công bố bao gồm: </p><p> Marina Inoue vào vai Artoria Gremm </p><p>Tetsu Inada vào vai Gassle Kroot</p> <p>Yūka Nishio vào vai Eris McClain</p></div></div>",
+      "createdAt": 1637158495800,
+      "updatedAt": 1637158495800
+    },
+    {
+      "categoryName": "anime",
+      "id": "facba76f-b20e-4c8b-8d47-7bc59f32b1ad",
+      "nation": "Nhật Bản",
+      "category": "Phim hoạt hình",
+      "year": 2021,
+      "sort": "mới",
+      "name": "Ma Cà Rồng, Lập Tức Đi Chết - The Vampire Dies in No Time",
+      "isPromotion": false,
+      "isFreeship": true,
+      "evaluate": 9.4,
+      "thumbnailUrl": "https://dongphymtv.com/public/files/flim/120x160/1633364973.jpg",
+      "date": "4/10/2021",
+      "director": "",
+      "time": "25 phút/ tập",
+      "practice": "N/A",
+      "premiere": "Phim hoạt hình",
+      "cast": "Jun Fukuyama, Makoto Furukawa, Mutsumi Tamura, Natsumi Hioka, Yoshitsugu Matsuoka",
+      "movie": [
+        "8Dv||Vz]gy",
+        73210,
+        45196,
+        "y*7=UaAG:'",
+        "^jX6Bexxal",
+        70519,
+        50794,
+        28552,
+        7023,
+        5772
+      ],
+      "desName": "Intelligent Frozen Ball",
+      "desContent": "Generic Plastic Bike",
+      "desCast": "Intelligent Plastic Mouse",
+      "desTrailer": "https://youtu.be/o5IKb0IvU6M",
+      "description": "<div className=\"detail\"><div className=\"detail_title\"><strong> Ma Cà Rồng, Lập Tức Đi Chết - The Vampire Dies in No Time (2021) </strong> là bộ anime được chuyển thể từ truyện tranh Nhật Bản được viết và minh họa bởi Itaru Bannokia. Phim xoay quanh câu chuyện của một con quỷ hút máu bất tử và người đuổi quỷ, cả hai đấu tranh lẫn nhau để bảo vệ cho lợi ích của mình..</div><div className=\" detail_review\"><strong>Review ngắn anime Ma Cà Rồng, Lập Tức Đi Chết</strong></div> <div className=\"detail_body\"><p><strong>Nội dung phim</strong></p><p>Ma Cà Rồng Lập Tức Đi Chết xảy ra ở một ngôi làng nhỏ nằm ở vùng ngoại ô dân cư hẻo lánh, đây là địa bàn của một con quỷ hút máu không thể bị giết chết tên là Doraruku chỉ cần nhắc đến tên thôi cũng khiến người khác sợ chạy toán loạn. Đối tượng mà Doraruku xem là con mồi chính là những đứa trẻ đi lạc vào ngôi làng này, lần lượt những đứa trẻ mất tích bắt đầu xuất hiện. Duy chỉ có một người dám xông vào ngôi làng này để tìm và giết con quỷ hút máu này chính là thợ săn Ronaldo.</p><p>Đến khi Ronaldo vào tận hang ổ của hắn thì anh bất ngờ phát hiện ra một bí mật rằng Doraruku kẻ được đồn đại là mang sức mạnh bất khả chiến bại nhưng hắn sống ở đây vô cùng yếu ớt dễ dàng tan thành tro bụi chỉ với mấy thủ thuật đơn giản. Câu chuyện Ma Cà Rồng Lập Tức Chết Đi bắt đầu gây cấn từ đây và những đứa trẻ bị bắt cóc tưởng chừng bị hút máu chết thì được cho là đã bị hắn đưa vào một thế giới trò chơi.</p>  </div ><div className=\"detail_footer\"><p><strong>Đội ngũ sản xuất phim Ma Cà Rồng, Lập Tức Đi Chết</strong></p><p>Phiên bản chuyển thể anime The Vampire Dies in No Time được sản xuất bởi Madhouse và đạo diễn bởi Hiroshi Kojina, với Yukie Sugawara đảm nhiệm vai trò giám sát kịch bản của loạt phim và người chịu trách nhiệm thiết kế các nhân vật chính là Mayuko Nakano. </p><p> Dàn diễn viên lồng tiếng Ma Cà Rồng, Lập Tức Đi Chết bao gồm: </p><p>Dralc được lồng tiếng bởi: Jun Fukuyama</p> <p>Tо Handa được lồng tiếng bởi: Yoshitsugu Matsuoka</p><p>Ronaldo được lồng tiếng bởi: Makoto Furukawa</p><p>Hiniachi được lồng tiếng bởi: Natsumi Hioka</p><p>John được lồng tiếng bởi: Mutsumi Tamura</p></div></div>",
+      "createdAt": 1637158495800,
+      "updatedAt": 1637158495800
+    },
+    {
+      "categoryName": "Toys",
+      "id": "20a7a174-58d1-40bc-9813-81a5cba4b5ed",
+      "nation": "Nhật Bản",
+      "category": "Phim hoạt hình",
+      "year": 2021,
+      "sort": "mới",
+      "name": "Thất Nghiệp Chuyển Sinh (Phần 1, 2) - Mushoku Tensei: Jobless Reincarnation (Season 1, 2) ",
+      "isPromotion": true,
+      "isFreeship": true,
+      "evaluate": 5.8,
+      "thumbnailUrl": "https://dongphymtv.com/public/files/flim/120x160/1633311267.jpg",
+      "date": "15/11/2021",
+      "director": "Manabu Okamoto",
+      "time": "25 phút/ tập",
+      "practice": "24 tập",
+      "premiere": "Phim hoạt hình",
+      "cast": "Yumi Uchiyama, Ai Kakuma, Konomi Kohara, Ai Kayano",
+      "movie": [
+        60867,
+        "!]fa;[!2O7",
+        "nlP4-.LX!7",
+        "&SXxqQf,Ne",
+        19081,
+        65003,
+        28073,
+        40538,
+        "FeEWvDzr(l",
+        37524
+      ],
+      "desName": "Sleek Cotton Towels",
+      "desContent": "Tasty Concrete Computer",
+      "desCast": "Gorgeous Fresh Bike",
+      "desTrailer": "https://youtu.be/OS6KeVt1Ve0",
+      "description": "<div className=\"detail\"><div className=\"detail_title\"><strong>Thất Nghiệp Chuyển Sinh (Phần 1 và 2) - Mushoku Tensei: Jobless Reincarnation </strong>là bộ anime xoay quanh cậu bé được tái sinh vào một thế giới kỳ diệu đầy phiêu lưu, một người đàn ông thất nghiệp quyết định sống cuộc sống mới của mình một cách trọn vẹn nhất mặc dù trước đây sống không mục đích, mất phương hướng.</div><div className=\" detail_review\"><strong>Review phim Thất Nghiệp Chuyển Sinh Phần 1, 2</strong></div> <div className=\"detail_body\"><p><strong>Nội dung phim</strong></p><p>Chuyện phim Thất Nghiệp Chuyển Sinh bắt đầu từ gã trai tơ 34 tuổi thất nghiệp bị đuổi ra khỏi nhà trong tình trạng không một xu dính túi, trong lúc chán nản đi lang thang trên đường thì bất ngờ bị một xe hơi đâm trúng. Đáng ngạc nhiên sau cú va chạm tưởng chừng đã chết đi thì anh ta phát hiện mình đã đầu thai trong một hình hài đứa trẻ sơ sinh và bắt đầu một cuộc sống mới ở một thế giới kỳ lạ đầy phép thuật và kiếm pháp.</p><p>Sau khi thất nghiệp chuyển sinh nam chính có một cái tên mới Rudeus Grayrat ở thế giới bí ẩn này. Không giống như việc đầu thai của một con người bình thường, anh vẫn nhớ được cuộc sống kiếp trước của mình. Câu chuyện trong phim sẽ là hành trình từ nhỏ cho đến khi trưởng thành trong một thế giới tuy tuyệt vời nhưng cũng đầy nguy hiểm của Rudeus. Đồng hành cùng anh là một cô bé xinh đẹp mang đôi tai Elf, là tiểu thư Tsundere tuy hung dữ nhưng lại cực kỳ quan tâm đến nam chính trong Thất Nghiệp Chuyển Sinh. Cả hai bắt đầu hành trình cùng những cuộc chiến khốc liệt.</p>  </div ><div className=\"detail_footer\"><p><strong>Đội ngũ góp phần vào tác phẩm Mushoku Tensei: Jobless Reincarnation Ss 1 và Ss 2</strong></p><p>Mushoku Tensei là series tiểu thuyết mạng Nhật Bản do tác giả Rifujin na Magonote viết và được xuất bản trên trang mạng Shousetsuka ni Narou (viết ngắn là Syosetu). Nhân sự chính cho anime truyền hình này bao gồm:</p><p> Nguyên tác: Rifujin na Magonote</p><p>Sản xuất: StudioBind</p> <p>Hình minh họa gốc: Shirotaka</p><p>Nhà sản xuất: EGG FIRM</p><p>Kế hoạch ban đầu: Frontier Works</p><p>Thiết kế nhân vật: Kazutaka Sugiyama</p><p>Xuất bản: KADOKAWA (dưới nhãn MF Books của họ)</p><p>Đạo diễn: Manabu Okamoto (GAMERS!)</p><p>Ngoài ra, Mushoku Tensei: Jobless Reincarnation Season 1 và 2 được đầu tư khá kỹ lưỡng phần lồng tiếng nhân vật, trong đó Tomokazu Sugita (Gintoki trong Gintama, Kohei Nikaido trong Golden Kamuy) sẽ đảm nhận lồng tiếng cho nam chính Rudeus Grayrat. Yukio Ohara đảm nhiệm phần mở đầu và kết thúc các bài hát chủ đề, kiêm luôn cả nhiệm vụ sản xuất, sáng tác, ghi âm và thực hiện ca khúc.</p></div></div>",
+      "createdAt": 1637158495801,
+      "updatedAt": 1637158495801
+    },
+    {
+      "categoryName": "anime",
+      "id": "d511a2f3-14a3-41d0-9edc-ad40f496b450",
+      "nation": "Trung quốc",
+      "category": "Phim hoạt hình",
+      "year": 2021,
+      "sort": "mới",
+      "name": "Phàm Nhân Tu Tiên (Phần 2)",
+      "isPromotion": true,
+      "isFreeship": true,
+      "evaluate": 6.8,
+      "thumbnailUrl": "https://dongphymtv.com/public/files/flim/120x160/1636862497.jpg",
+      "date": "15/11/2021",
+      "director": "",
+      "time": "25 phút / tập",
+      "practice": "N/A",
+      "premiere": "Phim hoạt hình",
+      "cast": "",
+      "movie": [
+        851,
+        "`\\mp03yi_$",
+        40653,
+        44005,
+        11024,
+        70665,
+        "P{-sGQ48ic",
+        "p^{DVm=b}/",
+        30084,
+        16104
+      ],
+      "desName": "Incredible Plastic Car",
+      "desContent": "Sleek Soft Sausages",
+      "desCast": "Licensed Plastic Soap",
+      "desTrailer": "https://youtu.be/JipVenGSZeY?t=4",
+      "description": "<div className=\"detail\"><div className=\"detail_title\"><strong>  Phàm Nhân Tu Tiên (Phần 2) - A Record of a Mortal's Journey to Immortality (2021)</strong>  xoay quanh câu chuyện của một người phàm tên Hàn Lập có mong muốn tìm hiểu thế giới rộng lớn đang sống của mình, mà vô tình gặp được vô vàn cơ duyên trên con đường tu tiên. Họ không phải tiểu nhân cũng chẳng phải anh hùng, Hàn Lập từng bước khẳng định mình trong giới đó.</div><div className=\" detail_review\"><strong>Review phim Phàm Nhân Tu Tiên phần 2</strong></div> <div className=\"detail_body\"><p><strong>Cảnh giới trong phim</strong></p><p>Có rất nhiều khán giả tò mò liệu cảnh giới trong phim hoạt hình Phàm Nhân Tu Nhiên có giống trong truyện hay không? Thì ssPhim xin giải đáp là hoàn toàn giống hết, các cảnh giới này tuy không nhiều nhưng được cái mạch lạc, rõ ràng, tạo nền móng vững chắc cho các phần sau sáng tạo thêm. Các cảnh giới của tu tiên giả phân chia thành 3 giai đoạn lớn: hạ cảnh giới, trung cảnh giới, thượng cảnh giới.</p><p>- Hạ cảnh giới bao gồm năm tầng: luyện khí, trúc cơ, kết đan, nguyên anh, hóa thần.</p><p>- Trung cảnh giới thì có ba tầng: luyện hư, hợp thể, đại thừa</p><p>- Thượng cảnh giới, kì thực ở cảnh giới này chỉ có một cửa quan là độ kiếp mà thôi, qua được tầng này thì có thể phi thăng tiên giới, thọ ngang trời đất.</p>  </div ><div className=\"detail_footer\"><p><strong>Đôi nét về nhân vật chính</strong></p><p>Trong phim Phàm Nhân Tu Tiên 2 nam chính Hàn Lập vốn là tiểu tử dân dã thuần khiết, điểm mạnh duy nhất của anh là thông minh và hiếu ký hơn người một chú mà thôi. Dẫu vậy mà Hàn Lập đã vượt qua không biết bao nhiêu là gian khổ, thử thách đánh đổi cả máu, mạng sống bước tiếp trên con đường tu tiên của mình. Sự nỗ lực ấy được đền đáp bằng một cảnh giới đỉnh cao khiến bao người bái phục.</p><p> Đến với phần 2 Phàm Nhân Tu Tiên, Hàn Lập từ thiếu niên ngây thơ trở thành một nhân vật cơ trí. Để có như ngày hôm nay anh đã phải trải qua quá trình tu tiên dài đằng đẵng từ 10 tuổi đến 8000 tuổi. Nét mặt lạnh lùng và tính khí quyết đoán và có đôi lúc thăng trầm âm u nhưng lúc nào cũng tràn đầy dũng khí của kẻ nam nhân chính là Hàn Lập trong phần tiếp theo của Phàm Nhân Tu Tiên. </p></div></div>",
+      "createdAt": 1637158495801,
+      "updatedAt": 1637158495801
+    },
+    {
+      "categoryName": "anime",
+      "id": "dc784194-b32a-481c-8b2a-802fe167fb7a",
+      "nation": "Nhật Bản",
+      "category": "Phim hoạt hình",
+      "year": 2021,
+      "sort": "mới",
+      "name": "Mặt Trăng, Raika Và Công Chúa Ma Cà Rồng",
+      "isPromotion": true,
+      "isFreeship": true,
+      "evaluate": 8.2,
+      "thumbnailUrl": "https://dongphymtv.com/public/files/flim/120x160/1633404626.png",
+      "date": " 4/10/2021",
+      "director": "",
+      "time": " 25 phút/ tập",
+      "practice": "N/A",
+      "premiere": "Phim hoạt hình",
+      "cast": "",
+      "movie": [
+        1604,
+        57781,
+        "JOV27k|]2@",
+        11985,
+        "-YF3(?3C=+",
+        "<)@#uI`*xT",
+        "a8o`v:-Wt8",
+        "G5e4=?'\"<x",
+        25904,
+        25638
       ],
       "desName": "Incredible Granite Ball",
       "desContent": "Tasty Concrete Bacon",
@@ -5173,7 +5559,43 @@
       "movie": [
         {
           "pratice": 1,
-          "video": "//ok.ru/videoembed/3236657564248"
+          "video": "//ok.ru/videoembed/3191752428059"
+        },
+        {
+          "pratice": 2,
+          "video": "//ok.ru/videoembed/3193608538651"
+        },
+        {
+          "pratice": 3,
+          "video": "//ok.ru/videoembed/3220364069403"
+        },
+        {
+          "pratice": 4,
+          "video": "//ok.ru/videoembed/3227164936731"
+        },
+        {
+          "pratice": 5,
+          "video": "//ok.ru/videoembed/3720299547165"
+        },
+        {
+          "pratice": 6,
+          "video": "//ok.ru/videoembed/3720299481629"
+        },
+        {
+          "pratice": 7,
+          "video": "//ok.ru/videoembed/3720299416093"
+        },
+        {
+          "pratice": 8,
+          "video": "//ok.ru/videoembed/3724898404893"
+        },
+        {
+          "pratice": 9,
+          "video": "//ok.ru/videoembed/3296231426587"
+        },
+        {
+          "pratice": 10,
+          "video": "//ok.ru/videoembed/3300390799899"
         }
       ],
       "desName": "Ergonomic Metal Salad",
@@ -5205,7 +5627,43 @@
       "movie": [
         {
           "pratice": 1,
-          "video": "//ok.ru/videoembed/3236657564248"
+          "video": "//ok.ru/videoembed/3191752428059"
+        },
+        {
+          "pratice": 2,
+          "video": "//ok.ru/videoembed/3193608538651"
+        },
+        {
+          "pratice": 3,
+          "video": "//ok.ru/videoembed/3220364069403"
+        },
+        {
+          "pratice": 4,
+          "video": "//ok.ru/videoembed/3227164936731"
+        },
+        {
+          "pratice": 5,
+          "video": "//ok.ru/videoembed/3720299547165"
+        },
+        {
+          "pratice": 6,
+          "video": "//ok.ru/videoembed/3720299481629"
+        },
+        {
+          "pratice": 7,
+          "video": "//ok.ru/videoembed/3720299416093"
+        },
+        {
+          "pratice": 8,
+          "video": "//ok.ru/videoembed/3724898404893"
+        },
+        {
+          "pratice": 9,
+          "video": "//ok.ru/videoembed/3296231426587"
+        },
+        {
+          "pratice": 10,
+          "video": "//ok.ru/videoembed/3300390799899"
         }
       ],
       "desName": "Rustic Cotton Tuna",
@@ -5237,7 +5695,43 @@
       "movie": [
         {
           "pratice": 1,
-          "video": "//ok.ru/videoembed/3236657564248"
+          "video": "//ok.ru/videoembed/3191752428059"
+        },
+        {
+          "pratice": 2,
+          "video": "//ok.ru/videoembed/3193608538651"
+        },
+        {
+          "pratice": 3,
+          "video": "//ok.ru/videoembed/3220364069403"
+        },
+        {
+          "pratice": 4,
+          "video": "//ok.ru/videoembed/3227164936731"
+        },
+        {
+          "pratice": 5,
+          "video": "//ok.ru/videoembed/3720299547165"
+        },
+        {
+          "pratice": 6,
+          "video": "//ok.ru/videoembed/3720299481629"
+        },
+        {
+          "pratice": 7,
+          "video": "//ok.ru/videoembed/3720299416093"
+        },
+        {
+          "pratice": 8,
+          "video": "//ok.ru/videoembed/3724898404893"
+        },
+        {
+          "pratice": 9,
+          "video": "//ok.ru/videoembed/3296231426587"
+        },
+        {
+          "pratice": 10,
+          "video": "//ok.ru/videoembed/3300390799899"
         }
       ],
       "desName": "Licensed Concrete Chair",
@@ -5269,7 +5763,43 @@
       "movie": [
         {
           "pratice": 1,
-          "video": "//ok.ru/videoembed/1047505537726"
+          "video": "//ok.ru/videoembed/3191752428059"
+        },
+        {
+          "pratice": 2,
+          "video": "//ok.ru/videoembed/3193608538651"
+        },
+        {
+          "pratice": 3,
+          "video": "//ok.ru/videoembed/3220364069403"
+        },
+        {
+          "pratice": 4,
+          "video": "//ok.ru/videoembed/3227164936731"
+        },
+        {
+          "pratice": 5,
+          "video": "//ok.ru/videoembed/3720299547165"
+        },
+        {
+          "pratice": 6,
+          "video": "//ok.ru/videoembed/3720299481629"
+        },
+        {
+          "pratice": 7,
+          "video": "//ok.ru/videoembed/3720299416093"
+        },
+        {
+          "pratice": 8,
+          "video": "//ok.ru/videoembed/3724898404893"
+        },
+        {
+          "pratice": 9,
+          "video": "//ok.ru/videoembed/3296231426587"
+        },
+        {
+          "pratice": 10,
+          "video": "//ok.ru/videoembed/3300390799899"
         }
       ],
       "desName": "Tasty Metal Shoes",
@@ -5302,6 +5832,42 @@
         {
           "pratice": 1,
           "video": "//ok.ru/videoembed/3191752428059"
+        },
+        {
+          "pratice": 2,
+          "video": "//ok.ru/videoembed/3193608538651"
+        },
+        {
+          "pratice": 3,
+          "video": "//ok.ru/videoembed/3220364069403"
+        },
+        {
+          "pratice": 4,
+          "video": "//ok.ru/videoembed/3227164936731"
+        },
+        {
+          "pratice": 5,
+          "video": "//ok.ru/videoembed/3720299547165"
+        },
+        {
+          "pratice": 6,
+          "video": "//ok.ru/videoembed/3720299481629"
+        },
+        {
+          "pratice": 7,
+          "video": "//ok.ru/videoembed/3720299416093"
+        },
+        {
+          "pratice": 8,
+          "video": "//ok.ru/videoembed/3724898404893"
+        },
+        {
+          "pratice": 9,
+          "video": "//ok.ru/videoembed/3296231426587"
+        },
+        {
+          "pratice": 10,
+          "video": "//ok.ru/videoembed/3300390799899"
         }
       ],
       "desName": "Licensed Soft Shoes",
@@ -5334,6 +5900,42 @@
         {
           "pratice": 1,
           "video": "//ok.ru/videoembed/3191752428059"
+        },
+        {
+          "pratice": 2,
+          "video": "//ok.ru/videoembed/3193608538651"
+        },
+        {
+          "pratice": 3,
+          "video": "//ok.ru/videoembed/3220364069403"
+        },
+        {
+          "pratice": 4,
+          "video": "//ok.ru/videoembed/3227164936731"
+        },
+        {
+          "pratice": 5,
+          "video": "//ok.ru/videoembed/3720299547165"
+        },
+        {
+          "pratice": 6,
+          "video": "//ok.ru/videoembed/3720299481629"
+        },
+        {
+          "pratice": 7,
+          "video": "//ok.ru/videoembed/3720299416093"
+        },
+        {
+          "pratice": 8,
+          "video": "//ok.ru/videoembed/3724898404893"
+        },
+        {
+          "pratice": 9,
+          "video": "//ok.ru/videoembed/3296231426587"
+        },
+        {
+          "pratice": 10,
+          "video": "//ok.ru/videoembed/3300390799899"
         }
       ],
       "desName": "Refined Metal Tuna",
@@ -5367,6 +5969,42 @@
         {
           "pratice": 1,
           "video": "//ok.ru/videoembed/3191752428059"
+        },
+        {
+          "pratice": 2,
+          "video": "//ok.ru/videoembed/3193608538651"
+        },
+        {
+          "pratice": 3,
+          "video": "//ok.ru/videoembed/3220364069403"
+        },
+        {
+          "pratice": 4,
+          "video": "//ok.ru/videoembed/3227164936731"
+        },
+        {
+          "pratice": 5,
+          "video": "//ok.ru/videoembed/3720299547165"
+        },
+        {
+          "pratice": 6,
+          "video": "//ok.ru/videoembed/3720299481629"
+        },
+        {
+          "pratice": 7,
+          "video": "//ok.ru/videoembed/3720299416093"
+        },
+        {
+          "pratice": 8,
+          "video": "//ok.ru/videoembed/3724898404893"
+        },
+        {
+          "pratice": 9,
+          "video": "//ok.ru/videoembed/3296231426587"
+        },
+        {
+          "pratice": 10,
+          "video": "//ok.ru/videoembed/3300390799899"
         }
       ],
       "desName": "Ergonomic Soft Shirt",
@@ -5399,6 +6037,42 @@
         {
           "pratice": 1,
           "video": "//ok.ru/videoembed/3191752428059"
+        },
+        {
+          "pratice": 2,
+          "video": "//ok.ru/videoembed/3193608538651"
+        },
+        {
+          "pratice": 3,
+          "video": "//ok.ru/videoembed/3220364069403"
+        },
+        {
+          "pratice": 4,
+          "video": "//ok.ru/videoembed/3227164936731"
+        },
+        {
+          "pratice": 5,
+          "video": "//ok.ru/videoembed/3720299547165"
+        },
+        {
+          "pratice": 6,
+          "video": "//ok.ru/videoembed/3720299481629"
+        },
+        {
+          "pratice": 7,
+          "video": "//ok.ru/videoembed/3720299416093"
+        },
+        {
+          "pratice": 8,
+          "video": "//ok.ru/videoembed/3724898404893"
+        },
+        {
+          "pratice": 9,
+          "video": "//ok.ru/videoembed/3296231426587"
+        },
+        {
+          "pratice": 10,
+          "video": "//ok.ru/videoembed/3300390799899"
         }
       ],
       "desName": "Tasty Frozen Cheese",
@@ -5950,6 +6624,161 @@
       ],
       "createdAt": 1637158495787,
       "updatedAt": 1637158495787
+    }
+  ],
+  "manager": [
+    {
+      "address": "Xã đức hòa,Huyện mộ đức,Tỉnh quảng ngãi",
+      "birthDay": "2000-03-08",
+      "gender": "nam",
+      "id": 1657678707327,
+      "identification": "2122813496",
+      "image": "http://res.cloudinary.com/huukien/image/upload/v1657678508/upload/h7xr6gx4wkagkekjj9wh.jpg",
+      "position": "nhân viên",
+      "telephone": "0969757507",
+      "userName": "Đỗ hữu kiên"
+    }
+  ],
+  "cast": [
+    {
+      "nation": "Mỹ",
+      "id": 1,
+      "image": "https://gamek.mediacdn.vn/thumb_w/640/133514250583805952/2022/1/22/photo-1-16428322419461750361607.jpeg",
+      "name": "Alexandra Daddario",
+      "description": "Nữ diễn viên kiêm YouTuber người Mỹ 35 tuổi đã xuất hiện trong các bộ phim như Percy Jackson và Baywatch. Đôi mắt xanh của cô ấy đã hớp hồn tất cả những người hâm mộ."
+    },
+    {
+      "nation": "Mỹ",
+      "id": 2,
+      "image": "https://gamek.mediacdn.vn/thumb_w/640/133514250583805952/2022/1/22/photo-2-16428322502531060913935.jpeg",
+      "name": "Amy Adams",
+      "description": "Nữ diễn viên 47 tuổi người Mỹ lọt vào danh sách này nhờ vẻ đẹp không thể chê vào đâu được. Cô đã tham gia các bộ phim hài, hành động và hồi hộp như: Enchanted, American Hustle và Nocturnal Animals"
+    },
+    {
+      "nation": "Mỹ",
+      "id": 3,
+      "image": "https://gamek.mediacdn.vn/thumb_w/640/133514250583805952/2022/1/22/photo-1-16428322419461750361607.jpeg",
+      "name": "Alexandra Daddario",
+      "description": "Nữ diễn viên kiêm YouTuber người Mỹ 35 tuổi đã xuất hiện trong các bộ phim như Percy Jackson và Baywatch. Đôi mắt xanh của cô ấy đã hớp hồn tất cả những người hâm mộ."
+    },
+    {
+      "nation": "Mỹ",
+      "id": 4,
+      "image": "https://gamek.mediacdn.vn/thumb_w/640/133514250583805952/2022/1/22/photo-4-16428322507671004991561.jpeg",
+      "name": "Ana de Armas",
+      "description": "Nữ diễn viên người Tây Ban Nha gốc Cuba đã xuất hiện trong các bộ phim của Hollywood như Dark Desire hay Blade Runner 2049."
+    },
+    {
+      "nation": "Mỹ",
+      "id": 5,
+      "image": "https://gamek.mediacdn.vn/thumb_w/640/133514250583805952/2022/1/22/photo-1-16428322419461750361607.jpeg",
+      "name": "Alexandra Daddario",
+      "description": "Nữ diễn viên kiêm YouTuber người Mỹ 35 tuổi đã xuất hiện trong các bộ phim như Percy Jackson và Baywatch. Đôi mắt xanh của cô ấy đã hớp hồn tất cả những người hâm mộ."
+    },
+    {
+      "nation": "Mỹ",
+      "id": 6,
+      "image": "https://gamek.mediacdn.vn/thumb_w/640/133514250583805952/2022/1/22/photo-1-16428322419461750361607.jpeg",
+      "name": "Alexandra Daddario",
+      "description": "Nữ diễn viên kiêm YouTuber người Mỹ 35 tuổi đã xuất hiện trong các bộ phim như Percy Jackson và Baywatch. Đôi mắt xanh của cô ấy đã hớp hồn tất cả những người hâm mộ."
+    },
+    {
+      "nation": "Mỹ",
+      "id": 7,
+      "image": "https://gamek.mediacdn.vn/thumb_w/640/133514250583805952/2022/1/22/photo-6-16428322492811352731490.jpeg",
+      "name": "Angelina Jolie",
+      "description": "Một trong những người đẹp được biết đến nhiều nhất nhờ tài năng, sức hấp dẫn và trí thông minh là nữ diễn viên đã đóng vai Lara Croft trong Tomb Raider, Maleficent và Ete,...."
+    },
+    {
+      "id": 8,
+      "nation": "Mỹ",
+      "image": "https://gamek.mediacdn.vn/thumb_w/640/133514250583805952/2022/1/22/photo-8-16428322487491206942876.jpeg",
+      "name": "Anne Hathaway",
+      "description": "Chúng ta đã từng thấy nữ diễn viên 39 tuổi người Mỹ đoạt giải Oscar trong các bộ phim như Les Miserables, The Devil Wears Fashionist hay The Princess Diaries."
+    },
+    {
+      "nation": "Mỹ",
+      "id": 9,
+      "image": "https://gamek.mediacdn.vn/thumb_w/640/133514250583805952/2022/1/22/photo-10-1642832248798468850414.jpeg",
+      "name": "Anya Taylor-Joy",
+      "description": "Nữ diễn viên kiêm người mẫu Mỹ - Anh đã từng chiến thắng Quả cầu vàng, các đề cử khác nhau cho giải BAFTA, trong các bộ phim và loạt phim như Fragmented, Lady's Gambit hay Morgan."
+    },
+    {
+      "id": 10,
+      "nation": "Mỹ",
+      "image": "https://gamek.mediacdn.vn/thumb_w/640/133514250583805952/2022/1/22/photo-12-16428322508312039090763.jpeg",
+      "name": " Chloe Grace Moretz",
+      "description": "Nữ diễn viên kiêm người mẫu 24 tuổi người Mỹ này đã trở thành một trong những gương mặt được công chúng yêu thích nhất suốt một thời gian. Chúng ta đã từng thấy cô ấy trong các tác phẩm như Kick-ass, Carrie hay The Fifth Wave"
+    },
+    {
+      "nation": "Mỹ",
+      "id": 11,
+      "image": "https://gamek.mediacdn.vn/thumb_w/640/133514250583805952/2022/1/22/photo-14-1642832250316957650114.jpeg",
+      "name": " Elizabeth Olsen",
+      "description": "Nữ diễn viên 32 tuổi đã nổi đình nổi đám sau khi tham gia các bộ phim như Avengers, khi thủ vai nàng Scarlet Witch"
+    },
+    {
+      "nation": "Mỹ",
+      "id": 13,
+      "image": "https://gamek.mediacdn.vn/thumb_w/640/133514250583805952/2022/1/22/photo-16-16428322498102057140875.png",
+      "name": " Emma Roberts",
+      "description": "Cô là một nữ diễn viên và ca sĩ người Mỹ 30 tuổi, và đã có màn trình diễn tuyệt vời trong American Horror, hay Nerve và Scream 4"
+    },
+    {
+      "nation": "Mỹ",
+      "id": 15,
+      "image": "https://gamek.mediacdn.vn/thumb_w/640/133514250583805952/2022/1/22/photo-20-16428322483841751496689.jpeg",
+      "name": "  Emma Watson",
+      "description": "Nữ diễn viên kiêm người mẫu người Anh nhưng sinh ra ở Pháp 31 tuổi này đã nổi tiếng nhờ vai Hermione trong câu chuyện hoàn chỉnh của Harry Potter."
+    },
+    {
+      "nation": "Trung Quôc",
+      "id": 17,
+      "image": "https://bazaarvietnam.vn/wp-content/uploads/2021/11/dien-vien-nam-trung-quoc-noi-tieng-6-e1636085748725.jpg",
+      "name": " Dịch Dương Thiên Tỉ",
+      "description": "Dịch Dương Thiên Tỉ là một ca sĩ nhí trong nhóm nhạc thiếu niên đình đám nhất Trung Quốc là TFBoys. Là một idol dạng dưỡng thành, lớn lên dưới sự theo dõi của công chúng, do đó cuộc đời của anh không hề có một vết nhơ, trong vắt như mặt hồ.Đó là thế giới phim chính kịch mà hầu hết mọi ngôi sao đều mơ ước, nơi họ được hợp tác với những đạo diễn hàng đầu cùng những kịch bản chủ lưu đặc sắc, thay vì các bộ phim đam mỹ, thanh xuân nhan nhản. Có thể nói Dịch Dương Thiên Tỉ đã đạt được thành tựu hiếm hoi mà nhiều đại lưu lượng hiện nay vẫn chưa đặt chân vào được"
+    },
+    {
+      "nation": "Trung Quôc",
+      "id": 18,
+      "image": "https://bazaarvietnam.vn/wp-content/uploads/2021/11/dien-vien-nam-trung-quoc-noi-tieng-5.jpg",
+      "name": " Tiêu Chiến",
+      "description": "Tiêu Chiến từ đầu năm 2021 đến nay đã có hơn 20 đại ngôn, cả những nhãn hiệu xa xỉ như Gucci, Tod’s, Zenith… cũng tìm đến anh. Và doanh thu mà các fan của Tiêu Chiến đem lại cho nhãn hàng có thể nói là 1 ngày bán bằng cả năm. Ngay cả thương hiệu đắt đỏ như Gucci mà fan Tiêu Chiến còn xếp hàng dài để mua như đang săn đồ sale.Tính đến nay, Tiêu Chiến mới chỉ có vai diễn Ngụy Vô Tiện trong phim Ma đạo tổ sư là thành công nhất. Phim Đấu La Đại Lục chỉ dừng ở mức trong vòng fan, còn các phim khác thì đang nằm kho chưa được chiếu."
+    },
+    {
+      "nation": "Trung Quôc",
+      "id": 19,
+      "image": "https://bazaarvietnam.vn/wp-content/uploads/2021/11/dien-vien-nam-trung-quoc-noi-tieng-4.jpg",
+      "name": "Vương Nhất Bác",
+      "description": "Diễn viên nam Trung Quốc nổi tiếng Vương Nhất Bác đồng thời trở thành đỉnh lưu cùng lúc với Tiêu Chiến. Trong các bảng xếp hạng, hai người luôn thay phiên dẫn đầu với chỉ số “đoạn tầng”. Anh cũng trở thành nghệ sĩ đầu tiên có tới 40 đại ngôn cùng lúc.Ở cả 2 mùa, tuyển thủ của đội anh đều dành giải quán quân, thậm chí á quân. Khả năng học hỏi nhanh và xuất sắc, kỹ năng thấu hiểu và phân tích trúng đích, tính cách dứt khoát, thẳng thắn, không màu mè đã giúp Vương Nhất Bác dành được cái gật đầu của những dancer quán quân thế giới."
+    },
+    {
+      "nation": "Trung Quôc",
+      "id": 20,
+      "image": "https://bazaarvietnam.vn/wp-content/uploads/2021/11/dien-vien-nam-trung-quoc-noi-tieng-3-scaled-e1636085919627.jpg",
+      "name": " Trương Nghệ Hưng      ",
+      "description": "Trương Nghệ Hưng cũng được mời xuất hiện trong rất nhiều chương trình có Vương Nhất Bác. Do đó fandom hai nhà không ngừng “xé nhau” (đấu khẩu) trên mọi mặt trận. Về vai vế thì Trương Nghệ Hưng là tiền bối với nhiều thành tích nổi bật trong mảng âm nhạc và phim ảnh.Xuất thân từ nhóm nhạc EXO và cùng lứa với Hoàng Tử Thao, Lộc Hàm… hiện nay Trương Nghệ Hưng cũng bắt đầu tự làm tư bản cho mình với việc thành lập công ty giải trí riêng và đầu tư vào nhiều hạng mục. Ở mảng street dance, anh có thể nói là người góp công đưa điệu nhảy Krump đến gần hơn với công chúng Trung."
+    },
+    {
+      "nation": "Trung Quôc",
+      "id": 21,
+      "image": "https://bazaarvietnam.vn/wp-content/uploads/2021/11/dien-vien-nam-trung-quoc-noi-tieng-2-e1636085963821.jpg",
+      "name": "Dương Dương",
+      "description": "Mùa hè vừa rồi Dương Dương có bộ phim Em là niềm kiêu hãnh của anh lên sóng. Phim đạt lượt xem phá nhiều kỷ lục nhờ công tác marketing tốt và khả năng gánh phim của hai đại lưu lượng là Dương Dương và Địch Lệ Nhiệt Ba.Nổi tiếng từ năm 2010 nhờ vai diễn Giả Bảo Ngọc trong Tân Hồng Lâu Mộng, Dương Dương tiếp tục gây tiếng vang lớn với vai Tiêu Nại trong Yêu em từ cái nhìn đầu tiên 2016.Nổi tiếng từ năm 2010 nhờ vai diễn Giả Bảo Ngọc trong Tân Hồng Lâu Mộng, Dương Dương tiếp tục gây tiếng vang lớn với vai Tiêu Nại trong Yêu em từ cái nhìn đầu tiên 2016."
+    },
+    {
+      "nation": "Việt nam",
+      "id": 124,
+      "image": "https://media.vov.vn/sites/default/files/styles/large/public/2022-04/npv01-6613.jpg",
+      "name": "Nhan Phúc Vinh",
+      "description": "Nhan Phúc Vinh hiện đang là một trong những lựa chọn số 1 của các đạo diễn trong các dự án phim điện ảnh, truyền hình lớn. Hơn 10 năm làm nghề, đến nay, Nhan Phúc Vinh đã bỏ túi kha khá giải thưởng: giải Cánh diều Vàng, giải Mai Vàng... Đời tư kín tiếng, sạch bóng scandal, chuyên tâm và nghiêm túc làm nghệ thuật, Nhan Phúc Vinh là một trong những nam diễn viên hàng đầu của Việt Nam hiện nay. Với gương mặt điển trai, nam tính, chiều cao lý tưởng, Nhan Phúc Vinh thường được chọn vào những vaitổng tài, soái ca đậm chất nam tính. Vai diễn mới nhất Tuấn Khang của Nhan Phúc Vinh trong Anh có phải đàn ông không? đang được khán giả truyền hình rất yêu thích. Ở dự án này, nhân vật anh thủ vai tương đối khác so với ngoài đời: có chút hư, phóng khoáng, ngang tàng, hay vượt qua giới hạn. Ngoài đời, Nhan Phúc Vinh thường được đồng nghiệp nhận xét và chính anh cũng tự nhận mình khá khó tính. "
+    },
+    {
+      "nation": "Việt nam",
+      "id": 152,
+      "image": "https://media.vov.vn/sites/default/files/styles/large/public/2022-04/d60ac0c9-ccd9-43f7-9b71-65c157e08c0a-1639629201604347282373.jpeg",
+      "name": "  Doãn Quốc Đam",
+      "description": "Nói về độ chất và nam tính, danh sách này không thể thiếu Doãn Quốc Đam. Trong bộ phim mới nhất Phố trong làng Doãn Quốc Đam tham gia, khán giả còn cho rằng: mặc dù Doãn Quốc Đam ở tuyến vai phụ song diễn xuất của anh còn nổi bật hơn và át dàn chính. Những vai diễn trong Quỳnh búp bê', Hướng dương ngược nắng, Hồ sơ cá sấu hay Thương ngày nắng về... mà Doãn Quốc Đam tham gia đều có cá tính nổi trội, mang một màu sắc riêng và là nút thắt của cả bộ phim. "
     }
   ]
 }
